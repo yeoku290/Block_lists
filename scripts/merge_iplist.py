@@ -9,6 +9,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset",
     "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt",
     "https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/bruteforce.txt",
+    "https://raw.githubusercontent.com/gazpitchy92/ip-blocklist/refs/heads/main/list/blacklist.txt",
     # 繼續新增...
 ]
 
