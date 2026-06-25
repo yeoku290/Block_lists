@@ -14,6 +14,7 @@ SOURCES = [
     "https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ac.txt",
     "https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/hosts.txt",
     "https://github.com/mehdichitsaz/blockguard-lists/raw/refs/heads/main/lists/unified-domains.txt",
+    "https://raw.githubusercontent.com/bol-van/rulist/refs/heads/main/reestr_hostname.txt",
     # 在這裡繼續新增你要的來源 URL
 ]
 
