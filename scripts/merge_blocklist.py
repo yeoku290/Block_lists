@@ -8,6 +8,12 @@ SOURCES = [
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
     "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
+    "https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-aa.txt",
+    "https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ab.txt",
+    "https://github.com/romainmarcoux/malicious-domains/raw/refs/heads/main/full-domains-ac.txt",
+    "https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/formats/primary_active/hosts.txt",
+    "https://github.com/mehdichitsaz/blockguard-lists/raw/refs/heads/main/lists/unified-domains.txt",
     # 在這裡繼續新增你要的來源 URL
 ]
 
