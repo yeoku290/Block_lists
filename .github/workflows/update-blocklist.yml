@@ -26,7 +26,8 @@ jobs:
       - name: Check for changes
         id: diff
         run: |
-          if git diff --quiet blocklist.txt; then
+          git add blocklist.txt
+          if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -38,6 +39,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           COUNT=$(grep -v '^#' blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
-          git add blocklist.txt
           git commit -m "chore: update blocklist (${COUNT} domains) [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
