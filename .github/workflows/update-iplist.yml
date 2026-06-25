@@ -23,10 +23,10 @@ jobs:
       - name: Run IP list merger
         run: python scripts/merge_iplist.py
 
-      - name: Check for changes
+- name: Check for changes
         id: diff
         run: |
-          git add ip_blocklist.txt cidr_blocklist.txt
+          git add ip_blocklist.txt
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
@@ -38,7 +38,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          IP_COUNT=$(grep -v '^#' ip_blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
-          CIDR_COUNT=$(grep -v '^#' cidr_blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
-          git commit -m "chore: update IP blocklist (${IP_COUNT} IPs, ${CIDR_COUNT} CIDRs) [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          COUNT=$(grep -v '^#' ip_blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
+          git commit -m "chore: update IP blocklist (${COUNT} IPs) [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
