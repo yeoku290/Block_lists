@@ -2,7 +2,7 @@ name: Update IP Blocklist
 
 on:
   schedule:
-    - cron: '30 * * * *'   # 每小時 30 分執行（錯開 domain 清單的整點）
+    - cron: '30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - name: Run IP list merger
         run: python scripts/merge_iplist.py
 
-- name: Check for changes
+      - name: Check for changes
         id: diff
         run: |
           git add ip_blocklist.txt
