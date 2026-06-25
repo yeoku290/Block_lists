@@ -1,0 +1,44 @@
+name: Update IP Blocklist
+
+on:
+  schedule:
+    - cron: '30 * * * *'   # 每小時 30 分執行（錯開 domain 清單的整點）
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run IP list merger
+        run: python scripts/merge_iplist.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git add ip_blocklist.txt cidr_blocklist.txt
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          IP_COUNT=$(grep -v '^#' ip_blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
+          CIDR_COUNT=$(grep -v '^#' cidr_blocklist.txt | grep -v '^$' | wc -l | tr -d ' ')
+          git commit -m "chore: update IP blocklist (${IP_COUNT} IPs, ${CIDR_COUNT} CIDRs) [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
