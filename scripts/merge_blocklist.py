@@ -61,6 +61,17 @@ def fetch_source(url):
 
 def main():
     all_domains = set()
+    
+    # 讀取本地的 whitelist.txt（如果檔案存在的話）
+    exclude_domains = set()
+    whitelist_path = Path("whitelist.txt")
+    if whitelist_path.exists():
+        for line in whitelist_path.read_text(encoding="utf-8").splitlines():
+            line = line.strip().lower()
+            if line and not line.startswith('#'):
+                exclude_domains.add(line)
+        print(f"🛡️ 已載入 {len(exclude_domains)} 個白名單排除項目")
+
     source_stats = []
 
     for url in SOURCES:
@@ -69,7 +80,8 @@ def main():
         parsed = 0
         for line in lines:
             domain = parse_line(line)
-            if domain:
+            # 檢查是否有效，且「不在」排除名單中
+            if domain and domain not in exclude_domains:
                 all_domains.add(domain)
                 parsed += 1
         added = len(all_domains) - before
@@ -85,7 +97,7 @@ def main():
         f"# 最後更新：{now}\n"
         f"# 總計網域數：{len(sorted_domains):,}\n#\n"
         f"# 來源：\n"
-        + "".join(f"#   {u}\n" for u in SOURCES)
+        + "".join(f"#    {u}\n" for u in SOURCES)
         + "#\n"
     )
 
