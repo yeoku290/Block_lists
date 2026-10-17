@@ -1,7 +1,7 @@
 # Domain Blocklist
 # 自動合併自 10 個來源
-# 最後更新：2026-10-17 21:16 UTC
-# 總計網域數：2,621,480
+# 最後更新：2026-10-17 23:47 UTC
+# 總計網域數：2,621,485
 #
 # 來源：
 #    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -310939,6 +310939,7 @@ allegrolokalnie.c87ax.click
 allegrolokalnie.category-43568234689-id8989239947882347.shop
 allegrolokalnie.cdfpl1828389cfd.cfd
 allegrolokalnie.ckupteraz.cfd
+allegrolokalnie.ckupteraz.top
 allegrolokalnie.ckvdoferta.sbs
 allegrolokalnie.com-021348.sbs
 allegrolokalnie.com-04918.sbs
@@ -311814,6 +311815,7 @@ allegrolokalnie.lokalne-ogloszenie152746294.sbs
 allegrolokalnie.lokalne-ogloszenie173628482-dla-ciebie.cyou
 allegrolokalnie.lokalne-ogloszenie56891896.shop
 allegrolokalnie.lokalne-ogoszenie1627.sbs
+allegrolokalnie.lokalne-ogoszenie202946.sbs
 allegrolokalnie.lokalne-ogoszenie23038.sbs
 allegrolokalnie.lokalne-ogoszenie56725.sbs
 allegrolokalnie.lokalne.sbs
@@ -314320,7 +314322,6 @@ allegrolokalnie.pl-oglozszenie19291028571.shop
 allegrolokalnie.pl-oglozszenie8901241727.shop
 allegrolokalnie.pl-order747346.cfd
 allegrolokalnie.pl-order871263.top
-allegrolokalnie.pl-ore.sbs
 allegrolokalnie.pl-otsochodzi.online
 allegrolokalnie.pl-otsochodzi.shop
 allegrolokalnie.pl-p45cr.sbs
@@ -314852,6 +314853,7 @@ allegrolokalnie.rezerwacja54278.cfd
 allegrolokalnie.rezerwacja544125.click
 allegrolokalnie.rezerwacja5623.lol
 allegrolokalnie.rezerwacja5627.lol
+allegrolokalnie.rezerwacja56437.click
 allegrolokalnie.rezerwacja5962.click
 allegrolokalnie.rezerwacja5993.sbs
 allegrolokalnie.rezerwacja617485.click
@@ -338348,6 +338350,7 @@ anthropic-ads-marketing.com
 anthropic-beta-ads.com
 anthropic-crm-1.com
 anthropic-sponsored.com
+anthropic.build
 anthropic5.com
 anthropicipo.net
 anthropmarkets.com
@@ -1990998,6 +1991001,7 @@ scriberry.ru
 scribersalmonorbs.qpon
 scribeshona.com
 scribetaenian.qpon
+scribhun.com
 scrible.click
 scribo-cameroon.com
 scriboacutus.com
@@ -2105891,6 +2105895,7 @@ spedition-tml.de
 speditionsdienstleistungen4.ink
 speditionspellets.com
 spedizione.github.io
+spedmyanmar.com
 spedtest.fr
 speead.jp
 speeb.com
