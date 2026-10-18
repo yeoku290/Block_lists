@@ -1,7 +1,7 @@
 # Domain Blocklist
 # 自動合併自 10 個來源
-# 最後更新：2026-10-18 20:11 UTC
-# 總計網域數：2,636,112
+# 最後更新：2026-10-18 22:48 UTC
+# 總計網域數：2,636,117
 #
 # 來源：
 #    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -313049,6 +313049,7 @@ allegrolokalnie.4506630.lat
 allegrolokalnie.4537654.click
 allegrolokalnie.4542og.top
 allegrolokalnie.455653ra.top
+allegrolokalnie.456351.top
 allegrolokalnie.457215.lat
 allegrolokalnie.457655ip.top
 allegrolokalnie.458192.top
@@ -317339,6 +317340,7 @@ allegrolokalnie.pl423az211.cyou
 allegrolokalnie.pl42672.lol
 allegrolokalnie.pl432093745.top
 allegrolokalnie.pl432093745013.top
+allegrolokalnie.pl4320937450135.top
 allegrolokalnie.pl43984.top
 allegrolokalnie.pl43fhg912.cyou
 allegrolokalnie.pl44389494.shop
@@ -657670,6 +657672,7 @@ creditoireinsurisam.com
 creditoliberadonuvip.online
 creditomagazine.es
 crediton.go2affise.com
+creditonacionaldeecuador--credinacionalec.replit.app
 creditonebanklogin.live
 creditonefinanci.md-apis.medallia.com
 creditonline102.ru
@@ -996607,6 +996610,7 @@ golowabolit.ru
 golowar.ru
 golowolomca-lordfilm.ru
 golp4elik.com
+golpados24pll.eu.cc
 golpas.com
 golpas.com.kz
 golpas.kz
@@ -1315491,6 +1315495,7 @@ lesureo7.pro
 lesuresfil.cyou
 lesurvivantparmiseutent.firebaseapp.com
 lesurvivantparmiseutent.web.app
+lesusdelgado26.wixsite.com
 lesushiandmorealkmaar.nl
 lesvideosdepapietmami.com
 lesview.com
