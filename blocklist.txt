@@ -1,7 +1,7 @@
 # Domain Blocklist
 # 自動合併自 10 個來源
-# 最後更新：2026-10-23 21:52 UTC
-# 總計網域數：2,644,740
+# 最後更新：2026-10-24 00:18 UTC
+# 總計網域數：2,644,782
 #
 # 來源：
 #    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -321631,6 +321631,7 @@ altarioveyron.live
 altarioveyrontrade.com
 altariqueza-app.com
 altaris-invest-ai.com
+altarisglobalcapital.com
 altariuscapital.net
 altarix-global.com
 altarix.ru
@@ -390568,6 +390569,7 @@ auth.booking-comarab-dubai-shopping.webflow.io
 auth.brightroll.com
 auth.bvdvi.top
 auth.bz
+auth.capidelivery.com
 auth.carbeast.com
 auth.career.huawei.com
 auth.carte-gr.total.fr
@@ -506590,6 +506592,10 @@ bsgeym-best.777caz.top
 bsggdpubmxryie.com
 bsghost.icu
 bsghsshwowno.lol
+bsgj111.com
+bsgj88.cc
+bsgj888.app
+bsgj888.cc
 bsgl.gl
 bsgl.hn
 bsgl.run
@@ -611325,6 +611331,7 @@ chezglanzes.com
 chezh1.popmarker.com
 chezipolitebeachclub.hostel.town
 chezmoi.ru
+cheznousavienne.fr
 chezprada.fr
 chezsissysunket.cfd
 chezupshaw.com
@@ -623523,6 +623530,7 @@ clc.zoocenter.ru
 clc7pokerdom.com
 clcbanque.fr
 clch9iukng.sbs
+clchantallecatsophrologue.fr
 clck.adskeeper.co.uk
 clck.bid
 clck.dzen.ru
@@ -626092,6 +626100,7 @@ cliente-ww-limpfeirao.shop
 cliente-yy-limpfeirao.shop
 cliente-z-limpfeirao.shop
 cliente.consultapedagiodigital.sbs
+cliente.iqdatacar.com.ar
 cliente.motiva-rodoviadigital.com
 cliente.oficialrodovia.com
 cliente.roviasdigitaisblog.com
@@ -658522,6 +658531,7 @@ creacamp.net
 creacion.ru
 creactiond.online
 creactiond.website
+creadailes.fr
 creade.ru
 creadevents.us
 creadit-agricole-serviceclient.fr
@@ -659318,6 +659328,7 @@ credit-vsem.pw
 credit-vzyat.ru
 credit-zent.ru
 credit.agricole-securi.com
+credit.auguste-patrimoine.fr
 credit.cadnes.com
 credit.commercial.capitalontap.com
 credit.verxbank.com
@@ -721532,6 +721543,7 @@ devaws.clicktale.net
 devazmetall.ru
 devazut-deauzit.ro
 devbabitayadav.github.io
+devbase.info
 devbby.top
 devbfjsierfhiss.site
 devblogsstage1.wpengine.com
@@ -790197,6 +790209,7 @@ easybloomshop.shop
 easyblox.net
 easybois.com
 easyboo.live
+easybookcliente.live
 easybucks.fun
 easybuild.ae
 easybusy.biz
@@ -825049,6 +825062,7 @@ entreprise-dalkia.fr
 entreprise-ecompte.fr
 entreprise-laposte.fr
 entreprise-livraison.fr
+entreprisefrancecouverture.fr
 entreprisemauricethiventsas.fr
 entreprises-collectivites.fr
 entreptscoured.qpon
@@ -827280,6 +827294,7 @@ equatyfax.com
 equdia.fr
 equelib.ru
 equesaatrians.info
+equeslltrians.info
 equest.world
 equestrian22.com
 equestriangirls.blogs.allthefallen.moe
@@ -851155,7 +851170,11 @@ facebook85.blogspot.com
 facebook92288.blogspot.com
 facebook9facebook.blogspot.com
 facebookaccount-zoomxleaderlegend.ph
+facebookaccount-zoomxwizards.ph
 facebookaccount-zoomxworthwhileful.ph
+facebookaccount-zoomxwowzzgem.ph
+facebookaccount-zoomzenithwavezzzzzzzzzzzzzzzzz.ph
+facebookaccount-zoomzoomy11.ph
 facebookaccount24.blogspot.com
 facebookaccountrecovery.blogspot.com
 facebookaccountsmanager.blogspot.com
@@ -851566,6 +851585,7 @@ facoutsourcing.com
 facow53u.top
 facpanel.com
 facsbot1.top
+facsecours.fr
 facsureste.com
 fact-accompte.webflow.io
 fact-chorus.webflow.io
@@ -918615,6 +918635,7 @@ freshenjoyy.xyz
 freshenjoyy1.xyz
 freshenjoyy2.xyz
 freshent.icu
+freshes-airbreathe.com
 freshestate.com.pl
 freshesunwarp.com
 freshet.cyou
@@ -1012945,6 +1012966,7 @@ greencompas.com
 greencorner-al.ru
 greencosltd.ru
 greencottage.homes
+greencountryfoundationrepair.com
 greencracks.com
 greencredit.in.ua
 greencrestcapitalpro.com
@@ -1040084,6 +1040106,7 @@ harmootpembina.cyou
 harmorabbr.store
 harmreductioneurasia.org
 harmrietmeijer.nl
+harmsbureaucratizaticcons.info
 harmtake.pro
 harmtonyambientehot.com
 harmttlessly.info
@@ -1091409,6 +1091432,7 @@ iggtrade.com
 iggy.plugvolter.live
 igh4ughplwplpbpcryzyv4rg3-8g347934.pages.dev
 ighbat.bagage24.nl
+ighedfil.rutherford-rothschild.com
 ighevsk.xxxrach.com
 ighffsssdfsf.shop
 ighpolipd.com
@@ -1114057,6 +1114081,7 @@ instagram-account-free-follower.vercel.app
 instagram-account-security.vercel.app
 instagram-account-verification.monikariecke.de
 instagram-account-zoomxblog-zoom.ph
+instagram-account-zoomzoome.ph
 instagram-accounts-login.duckdns.org
 instagram-analytics.blogspot.com
 instagram-app.cn
@@ -1424688,6 +1424713,7 @@ lorenzoearnest.com
 lorenzourban.com
 loreog0ll.filmlordn.online
 loreogoli.filmlordn.online
+loresgraphics.com
 lorete.pl
 lorettahenson.com
 lorettonursery.com
@@ -1526160,6 +1526186,7 @@ miscellaneous.baby
 miscellaneousfloraprosecutor.com
 miscemassed.com
 mischacrossing.com
+mischargiwwng.info
 mischbloss.cyou
 misciireations.info
 misciron.com
@@ -1570111,6 +1570138,7 @@ mrvegas-casino.fr
 mrvegas-fr.fr
 mrvegas1.fr
 mrven.ru
+mrverify.is
 mrvids.com
 mrvine.al
 mrvineforum.pk
@@ -1677159,6 +1677187,7 @@ opensees.wixstudio.com
 openselimited-grab.vercel.app
 opensenft.vercel.app
 opensense.com
+openservices.cfd
 opensessionmints01.vercel.app
 opensessionmints02.vercel.app
 opensessionmints03.vercel.app
@@ -1679637,6 +1679666,7 @@ orai.net
 oraidex-9ft.pages.dev
 oraidex-dis.pages.dev
 oraidex.net
+orail.fr
 oraix.io
 orajge.fr
 orakag.com
@@ -1701579,6 +1701609,7 @@ pasaremos.pw
 pasaremos.xyz
 pasarinko.zeroweb.kr
 pasarseller.shop
+pasastecsnietag.boats
 pasastesintag.pics
 pasastesintag26.xin
 pasaz.shop
@@ -1930144,6 +1930175,7 @@ rfv-internal-dev.com
 rfv.pl
 rfv7pokerdom.com
 rfvacservices.com
+rfverifyadmin.pulsargg.cn
 rfvgcross.com
 rfvhxb5.com
 rfvoc.enml.com
@@ -2009473,6 +2009505,7 @@ schwab.com.ssl.d1.sc.omtrdc.net
 schwab.demdex.net
 schwab.tt.omtrdc.net
 schwabconfirm.com
+schwaben-services.de
 schwabenholz-brenholzhandeldienstleistungen.de
 schwabenmode-stuttgart.de
 schwabs.charles-app.workers.dev
@@ -2010223,6 +2010256,7 @@ scotia2026sercuritty.com
 scotiaabankk.com
 scotiabank-com-mx.acceso-cliente.com
 scotiabank-ddhl-cgd.ph
+scotiabank-ddhl.ph
 scotiabank-login.ph
 scotiabank.co.com
 scotiabank.hyperedge-resolver.pro
@@ -2016006,6 +2016040,9 @@ secureacademy6b7vl0gin.weebly.com
 secureacces-sg.fr
 secureaccess.avalon.company
 secureaccess.ru
+secureaccount-zoomzoomac.ph
+secureaccount-zoomzoomai.ph
+secureaccount-zoomzoomav.ph
 secureactivitysett726411.li
 secureaddisplay.com
 secureae-edge.ikea.com
@@ -2286128,6 +2286165,7 @@ trusty-research.com
 trusty-shovel-1234.paul-f22.workers.dev
 trusty.framer.ai
 trustyable.com
+trustydata.fr
 trustydealmarket.com
 trustyewallet.com
 trustyfine.com
@@ -2322102,6 +2322140,7 @@ unrestwidthconsonant.com
 unretiredcasino.cloud
 unrhrougeahnf.website
 unridhoncho.com
+unrightxxeousnesses.info
 unrigscsc.com
 unripe-anybody.pro
 unripe-head.pro
@@ -2399055,6 +2399094,8 @@ verificaintesa.it
 verificaitalia-click.pages.dev
 verificaitalia.click
 verificaitaliatech.com
+verificamexico.com
+verificamexico.com.trustway.mx
 verificandolo.zz.com.ve
 verificaora.com
 verificar--seguridad884.replit.app
@@ -2594398,6 +2594439,7 @@ xn--v11-7ua.com
 xn--v14-7ua.com
 xn--v1a.new-rutor.org
 xn--v1aaa.new-rutor.org
+xn--v6cai4bdbpmab6grbzf2a7blj4bze9cza5j6gpa.com
 xn--validation-scurit-mtbf.fr
 xn--valider-lesbotes-auxlettres-outlook-sid.weebly.com
 xn--ve-6kca.xn--mhbrgh-3nfac8kferak04aw4hha3153kdaj.moeshendrik.eu.com
