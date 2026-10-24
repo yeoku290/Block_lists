@@ -1,7 +1,7 @@
 # Domain Blocklist
 # 自動合併自 10 個來源
-# 最後更新：2026-10-24 10:25 UTC
-# 總計網域數：2,645,106
+# 最後更新：2026-10-24 14:17 UTC
+# 總計網域數：2,645,219
 #
 # 來源：
 #    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -219860,6 +219860,7 @@
 8862827919-prawnicy.storage.googleapis.com
 8862956835-prawnicy.storage.googleapis.com
 8862998727-prawnicy.storage.googleapis.com
+8862cf06.711php-ph.net
 8864.casino
 8865.casino
 8865.ru
@@ -240761,7 +240762,6 @@ abgintovt.ru
 abgku.onewillow.com
 abgligarchan.com
 abgoc.com
-abgolftraining.com
 abgranit.ru
 abgreen.com.br
 abgroupaclient.perimeterx.net
@@ -241537,6 +241537,7 @@ abooveewwaall.site
 aboprimevid.fr
 abopro-prime.fr
 aborator.icu
+abordagemcumplice.com
 abordazh.com
 aborean-checker.world
 aboreda.linkpc.net
@@ -243532,6 +243533,7 @@ accesmescomptes.fr
 accesmscloud-appld.us
 accesmyaccount.com
 accesmyretirement.com
+acceso--micreditos.replit.app
 acceso-al-correo-electronico.webflow.io
 acceso-bhd.webcindario.com
 acceso-clientes-web.com
@@ -292081,6 +292083,7 @@ airbnb-clone-farukipekcom.vercel.app
 airbnb-clone-final.vercel.app
 airbnb-clone-frontend-8w55.onrender.com
 airbnb-clone-g54voyuwx-huucanh2011.vercel.app
+airbnb-clone-hisham.vercel.app
 airbnb-clone-hulu-app.vercel.app
 airbnb-clone-iota-five.vercel.app
 airbnb-clone-lime.vercel.app
@@ -306190,6 +306193,7 @@ alifuae.com
 alifyqlduk.net
 aligatorstudioparis.fr
 aligency.ru
+aligeodcv.cc
 aligestio.com
 aliggat.ru
 alighskghsgdf.on-forge.com
@@ -308751,6 +308755,7 @@ allegro-lokalnie.kupteraz953821-4t9h.cyou
 allegro-lokalnie.lokalna-ofeta893724781.cfd
 allegro-lokalnie.lux-772.cfd
 allegro-lokalnie.maho392381204-h.lat
+allegro-lokalnie.massivefab105.cfd
 allegro-lokalnie.msa9s8a78a9.shop
 allegro-lokalnie.nmvk298523-fg23.cyou
 allegro-lokalnie.o45ih452.lol
@@ -314875,6 +314880,7 @@ allegrolokalnie.nr-93278434.click
 allegrolokalnie.nr-93284ksd43.click
 allegrolokalnie.nr-943854.click
 allegrolokalnie.nr-h2n-8sn4-sn23.sbs
+allegrolokalnie.nr-n82-ms3-934-t2m.sbs
 allegrolokalnie.nvbnvcbnhk79066.biz
 allegrolokalnie.o34gesdvsvs.sbs
 allegrolokalnie.o45ih452.lol
@@ -338985,6 +338991,7 @@ angiodialysis-live.ru
 angiography26.ru
 angiohospital.ru
 angioletti.ru
+angiomonas.store
 angiomothb.cyou
 angioneurotic.fun
 angioripre.cyou
@@ -343776,7 +343783,6 @@ aoawvgyy6y.com
 aob.buzz
 aob7pokerdom.com
 aobao.com
-aobeclud.com
 aobfnurtqxnio.online
 aoblawyers.ru
 aobmomalls.shop
@@ -360128,6 +360134,7 @@ archlure.icu
 archluxe.vip
 archlymoody.com
 archmart.ru
+archmembersecurity.com
 archmich.ru
 archmilsol.com
 archmodern.ru
@@ -390777,6 +390784,7 @@ auth.slot69q.org
 auth.solidus.network
 auth.split.io
 auth.stanleysaudiarabia.com
+auth.steamcommunutty.com
 auth.steelswill.com
 auth.stromleser.de
 auth.sub0.net
@@ -392151,7 +392159,6 @@ autodiscover.dotomi.com
 autodiscover.eventmonitoring.my.id
 autodiscover.helveticads.com
 autodiscover.kraken.net.bo
-autodiscover.ledgerassurance.com
 autodiscover.lists.vertamedia.com
 autodiscover.livejasmin.com
 autodiscover.mathtag.com
@@ -436768,7 +436775,6 @@ bdsearch.2345.com
 bdseo.ru
 bdshi-6.ru
 bdshi4.ru
-bdsinvestment.com
 bdslk.gparlington.com
 bdslocksmiths.com.au
 bdslsy.com
@@ -444612,6 +444618,7 @@ bellsouth-att-sign-in-8c9760.webflow.io
 bellsouth-att-sign-in-904158.webflow.io
 bellsouth-att-sign-in-90579d.webflow.io
 bellsouth-att-sign-in-94b16e.webflow.io
+bellsouth-att-sign-in-99dd87.webflow.io
 bellsouth-att-sign-in-99e118.webflow.io
 bellsouth-att-sign-in-9e4506.webflow.io
 bellsouth-att-sign-in-9f0da3.webflow.io
@@ -453409,6 +453416,7 @@ betriotcasino.fr
 betriotcasinofrance.fr
 betriots.fr
 betrip.io
+betriviera-casiino.fr
 betriviera-casino.fr
 betriviera-casinos.fr
 betriviera-france.fr
@@ -479014,6 +479022,8 @@ bluecatart.ru
 bluecatrestaurant.com
 bluecava.com
 bluecheats.com
+bluecheckservices-gold.vercel.app
+bluecheckservices.vercel.app
 bluechip-luxeron.com
 bluechipadvisor.live
 bluechipblockchain.online
@@ -494452,6 +494462,7 @@ boujois.fr
 boukake.direc4571512.pro
 boulager.fr
 boulanger-remboursements.fr
+boulangerfrance.fr
 boulangerie-instant-chic.fr
 boulangeriegateway.com
 boulangerlabs.com
@@ -500442,6 +500453,7 @@ bricktrustcap.com
 brickts.com
 brickvestcapitalltd.com
 brickwesthollywood.com
+brickwildsave.shop
 brickwillow.eu
 brickworks.viessmann.sg
 brickworldstore.com
@@ -500721,7 +500733,6 @@ bridgeathletic-1.net.mydays.de
 bridgebase.fr
 bridgebik.pro
 bridgeclar.vocaldads.com
-bridgecreditcapital.com
 bridged.media
 bridgedbxs.shop
 bridgedefihub.com
@@ -520250,6 +520261,7 @@ ca-region.fr
 ca-regionalesacces.fr
 ca-renault.ru
 ca-roobet.com
+ca-saone-doubs.fr
 ca-savoie.fr
 ca-scurepass-majlog.fr
 ca-secupassinfo.com
@@ -527267,6 +527279,7 @@ capgemini-technology-services.fr
 capgeminijpmc.tt.omtrdc.net
 capgimini.fr
 capgroupinv.site
+caphaibuvoice.vercel.app
 caphaiks.com
 caphdeanoetil.pro
 capholeful1978.blogspot.be
@@ -532093,7 +532106,6 @@ cashalot1.bet
 cashandel.shop
 cashandlife.com
 cashapp-liart.vercel.app
-cashapp-squares.hollyshair.com
 cashapp.lat
 cashapp.mom
 cashapp3.godaddysites.com
@@ -597923,6 +597935,7 @@ central-crimson-l5ks1k8d.edgeone.dev
 central-empresarialpj.lat
 central-hub.credit-agency-meta.com
 central-inn.ru
+central-orange-mxaojq3x-dpmybhlmsmgk.edgeone.dev
 central-peach-ro53sx5n-dpmb68ixn6ev.edgeone.dev
 central-portal.credit-agency-meta.com
 central-prime-index.com
@@ -606287,6 +606300,7 @@ chaussuresgaborsoldes.fr
 chaussuresgeoxfrance.fr
 chaussureshanwag.fr
 chaussureshitec.fr
+chaussureshoka.fr
 chaussureshub.fr
 chaussuresideale.fr
 chaussuresideales.fr
@@ -616897,6 +616911,7 @@ chus-kultura.ru
 chus-ozero.ru
 chusapsoarduwa.net
 chusband.com
+chushiy.shop
 chushoushijian.cn
 chushpan.lordkino.click
 chusko.com
@@ -623755,10 +623770,12 @@ clean-events.net
 clean-flicker.com
 clean-keeper.ru
 clean-mag.ru
+clean-maroon-nrokx8wu-dp004kyxtjk2.edgeone.dev
 clean-masterpc.ru
 clean-me.ru
 clean-mobilephone.com
 clean-nowadays.ru
+clean-plum-bggsbjye-dp81vs7sokp7.edgeone.dev
 clean-rolhause.ru
 clean-search.com
 clean-services.pro
@@ -627758,6 +627775,7 @@ cloudapotheke.com
 cloudapp-node.pages.dev
 cloudappleid.sviluppo.host
 cloudarun.com
+cloudas939-alt.github.io
 cloudasbook.com
 cloudaudit.googleapis.com
 cloudauth-gateway.com
@@ -642917,6 +642935,7 @@ combusti0n-1pamd4.com
 combustiblestarkjerk.com
 combustionsolutions.ru
 comc4l7.pandora.xiaomi.com
+comcafjkdhfkgng.weebly.com
 comcaregivers.org
 comcas1.weebly.com
 comcascommunicationcable.weebly.com
@@ -656180,7 +656199,6 @@ cpanel.helveticads.com
 cpanel.instalacionesjm.com.mx
 cpanel.k-log.eng.br
 cpanel.ledger-live-application.com
-cpanel.ledgerassurance.com
 cpanel.lululemon-japan.jp
 cpanel.mahfuzrealtor.com
 cpanel.malegra.cyou
@@ -656280,7 +656298,6 @@ cpcalendars.applyglobaldynamic.com
 cpcalendars.billabong-turkiye.com
 cpcalendars.billabongnz.com
 cpcalendars.karenmillen-france.cc
-cpcalendars.ledgerassurance.com
 cpcalendars.lululemon-japan.jp
 cpcalendars.raydium-token.xyz
 cpcalendars.savepool.digital
@@ -656340,7 +656357,6 @@ cpcontacts.jellycatstoreusa.com
 cpcontacts.jgckir.rse.web.id
 cpcontacts.karenmillen-greece.com
 cpcontacts.kedsturkiye.com.tr
-cpcontacts.ledgerassurance.com
 cpcontacts.lowaoutletsdeutschland.de
 cpcontacts.lululemon-japan.jp
 cpcontacts.lululemonjapan.jp
@@ -659534,6 +659550,7 @@ creditconseil-ain.fr
 creditcooperatebank.com
 creditcooperatifs.fr
 creditcorp.click
+creditcrunch.dev.hetzner-main.theh.systems
 creditdunord-client.fr
 creditdunord-session.firebaseapp.com
 creditdunordfrance.fr
@@ -687700,6 +687717,7 @@ dachsrendivelt-app.com
 dachsrendivelt-de.live
 dachsrendivelt.live
 dachsrendivelt.net
+dachuang-project-center-dev-dpz215k6l8hj.edgeone.dev
 dachybany.ru
 daciacapital.digital
 daciafinvics.com
@@ -705339,6 +705357,7 @@ database.waondosecondary.xyz
 database01p.anixe.net
 databasegalore.com
 databasehelp.online
+databaseserver-sigma.vercel.app
 databasesfarsightedmexican.com
 databasesgoingsenior.com
 databasesgossipy.com
@@ -710387,6 +710406,7 @@ debitos.free-flow--pedagio.digital
 debitsale.net
 debitsikatch.com
 debiwaa.pro
+debiwac.cloud-ip.cc
 debix-user.sixgroup-kyc.com
 debixplus.digital
 debjiab.trackflirting.com
@@ -724590,6 +724610,7 @@ dhl.servirtual.cl
 dhl.track-package.homes
 dhl.traxpackage.skin
 dhl.webauthor.com
+dhl.webauthordev.com
 dhl.wf
 dhl8466478o.s3.us-east-2.amazonaws.com
 dhlamp.addmore.co.kr
@@ -726881,7 +726902,6 @@ digisign.se
 digiskillzz.com
 digislots.in
 digismoke.net
-digisolutionfund.com
 digispectral.com
 digispends.net
 digisport.re
@@ -742112,6 +742132,7 @@ disguisedfilm.site
 disguisedtimingbreath.com
 disguisestoughprocured.com
 disgusted-brown-d7ysym9h-dpnbyupyl95p.edgeone.dev
+disgusted-purple-nkmoolrl-dpt09r7ogs2a.edgeone.dev
 disgustingcoach.com
 disgustinghighnesseventually.com
 disgustingmad.com
@@ -743720,6 +743741,7 @@ diwanee-d.openx.net
 diwano.ru
 diwanuudiverged.info
 diwapa3051.wixsite.com
+diwapay-boost-sellxyz-dphzo2vdhl5q.edgeone.dev
 diwaslot.xyz
 diwaxgaming.com
 diwcord.com
@@ -748686,6 +748708,7 @@ doc-phantomus.pages.dev
 doc-phntomus-wallet.pages.dev
 doc-pills.net.ru
 doc-pills.org.ru
+doc-portail-groupegouletsports.vercel.app
 doc-portail-santacruzexpress.vercel.app
 doc-postale.firebaseapp.com
 doc-postale.web.app
@@ -748965,6 +748988,7 @@ docplayer.com
 docplayer.net
 docplayer.ru
 docporstview.live
+docportailwe.weebly.com
 docposte.fr
 docpro.biz
 docprodoc.com
@@ -776903,6 +776927,7 @@ dsidas.com
 dsifi.toms.com
 dsignpost.com
 dsiill.com
+dsik.gitbook.io
 dsiken.space
 dsikyf.com
 dsilbm.com
@@ -779550,6 +779575,7 @@ dull-beige-2zqnpfxq-dpnhsxh5rzdy.edgeone.dev
 dull-deep.com
 dull-meadow.com
 dull-octopus-acting.shop
+dull-salmon-lgbcjbpe-dp5t20qkx5b0.edgeone.dev
 dull-science.com
 dull.bankofamerica.com
 dullequivalent.com
@@ -800362,9 +800388,13 @@ elab33.ru
 elab76.ru
 elabassest.com
 elabet-casino.fr
+elabet-fr.fr
+elabet-france.fr
 elabetcasino.fr
+elabetfrance.fr
 elaborar.us
 elaborate-products-order.netlify.app
+elaborate-purple-09uwdgvo-dp3vmpwnuh8u.edgeone.dev
 elaborate-wisp-1d4695.netlify.app
 elaboratebasis.com
 elaboratory.top
@@ -821398,7 +821428,6 @@ en.bbsgayru36.com
 en.betsafe.lt
 en.betscsgo.net
 en.bistredmccoy.cyou
-en.block-sphere.com
 en.bollywood.edu.pl
 en.bonga-cams.com
 en.bonga-cams.net
@@ -821425,7 +821454,6 @@ en.bysex.net
 en.bysexnew.name
 en.cackssandhog.com
 en.caired.ru
-en.capitalpaycoin.com
 en.capitalprimefinance.com
 en.caribbeancom.com
 en.casbits.ru
@@ -825397,6 +825425,7 @@ envoi-chronopost.fr
 envoi-mondialrelay.fr
 envoi-suivi-dossier.com
 envoi-traitement-suivi.com
+envoi24pros.fr
 envoicolissimo.fr
 envoicourrier.fr
 envoie-ameli.fr
@@ -825406,6 +825435,7 @@ envoie-relay.info
 envoie.email
 envoietonrsaionos.fr
 envoipostale.fr
+envois24pro.fr
 envoke.d1.sc.omtrdc.net
 envolsolvitage.com
 envolsolvitage.live
@@ -842462,6 +842492,7 @@ exclusiveutopia.com
 exclusivewears.com
 exclusivewebnews.com
 exclusivexinvest.com
+exclusivosohoje.app
 exclusivsteklo.ru
 exclusivveccorrp.online
 exclusivvecorporation.shop
@@ -843943,6 +843974,7 @@ experiencenano.com
 experienceplatform.avaya.com
 experiences.cibc.com
 experiences.simplii.com
+experiences12.github.io
 experiencesuite.it
 experiencetrackinghub.club
 experiencevirginamerica.com
@@ -850857,6 +850889,7 @@ facebook-clone-mu-six.vercel.app
 facebook-clone-neon-ten.vercel.app
 facebook-clone-nu-eight.vercel.app
 facebook-clone-nu-nine.vercel.app
+facebook-clone-nu-two.vercel.app
 facebook-clone-one-sand.vercel.app
 facebook-clone-phi-ruddy.vercel.app
 facebook-clone-phi-seven.vercel.app
@@ -851308,6 +851341,10 @@ facebook85.blogspot.com
 facebook92288.blogspot.com
 facebook9facebook.blogspot.com
 facebookaccount-zoomwriter.ph
+facebookaccount-zoomxshine.ph
+facebookaccount-zoomxworthfulnessfulnessof.ph
+facebookaccount-zoomzephyryx45.ph
+facebookaccount-zoomzoom7.ph
 facebookaccount24.blogspot.com
 facebookaccountrecovery.blogspot.com
 facebookaccountsmanager.blogspot.com
@@ -851695,6 +851732,7 @@ facilities-information.com
 facilitiessurvey.com
 facilityannounced.com
 facilityappreciate.com
+facinformatica.com
 facinghuldee.com
 facingostensible.com
 facingturtle.com
@@ -861802,7 +861840,6 @@ feedback.cn.ronghub.com
 feedback.gac-oman.com
 feedback.geo.adrecover.com
 feedback.getsocial.io
-feedback.gettrade.ai
 feedback.hubapi.com
 feedback.imsmetals.com
 feedback.kukuplay.com
@@ -864809,6 +864846,7 @@ ferrarendorio-it.com
 ferrarendorio.com
 ferrari.btttag.com
 ferrari.gr.com
+ferrari.info4571011.pro
 ferrari2017.online
 ferrari2017.ru
 ferrarti.it
@@ -877238,10 +877276,12 @@ finstroydom.ru
 finsurecoinnet.com
 finsvoboda-kaluga.ru
 finsy0-aut67.sbs
+finsy0-deleniti7.cfd
 finsy0-dolor21.cyou
 finsy0-dolore9.cfd
 finsy0-doloremque94.cyou
 finsy0-dolores72.cfd
+finsy0-ea10.cfd
 finsy0-eligendi73.cfd
 finsy0-eveniet73.sbs
 finsy0-ipsum53.sbs
@@ -877316,6 +877356,7 @@ finsy3-error10.cyou
 finsy3-fuga42.sbs
 finsy3-in32.cfd
 finsy3-incidunt30.sbs
+finsy3-laborum65.cfd
 finsy3-mollitia51.sbs
 finsy3-nesciunt6.sbs
 finsy3-non65.sbs
@@ -877327,6 +877368,7 @@ finsy3-repellendus25.cfd
 finsy3-repellendus5.cfd
 finsy3-sint82.sbs
 finsy3-sit80.sbs
+finsy3-ut39.cfd
 finsy3-ut40.cfd
 finsy4-architecto83.cfd
 finsy4-est20.cyou
@@ -877338,6 +877380,7 @@ finsy4-quae87.sbs
 finsy4-qui59.cyou
 finsy4-reprehenderit12.sbs
 finsy4-temporibus74.cfd
+finsy4-veniam39.cfd
 finsy4-vero24.cfd
 finsy4-voluptas11.sbs
 finsy5-atque71.sbs
@@ -877382,9 +877425,11 @@ finsy6-molestiae14.sbs
 finsy6-molestiae18.sbs
 finsy6-nisi56.sbs
 finsy6-officiis12.cfd
+finsy6-perspiciatis29.cfd
 finsy6-possimus68.cyou
 finsy6-quidem51.sbs
 finsy6-quod80.sbs
+finsy6-ut82.cfd
 finsy6-vitae42.sbs
 finsy7-cumque13.cfd
 finsy7-dolore44.sbs
@@ -877406,6 +877451,7 @@ finsy7-omnis36.cyou
 finsy7-omnis60.sbs
 finsy7-pariatur1.cyou
 finsy7-placeat2.cfd
+finsy7-provident99.cfd
 finsy7-quisquam53.cfd
 finsy7-repellendus14.sbs
 finsy7-rerum68.sbs
@@ -893596,6 +893642,7 @@ followerstared.com
 followfarrow.com
 followhealth.net
 followimage.info
+following-orange-mmmvzqqk-dpj65nfkdo6u.edgeone.dev
 followingbehold.com
 followingblinkedbeautiful.com
 followingfollowingvestry.pro
@@ -899989,6 +900036,7 @@ fortunezza.com
 fortunezza.digital
 fortunezza.net
 fortunezzatrade.com
+fortunica-casiino.fr
 fortunica-casino-australian.com
 fortunica-casino.fr
 fortunica-fr.fr
@@ -903063,7 +903111,6 @@ fr.auxilliquory.com
 fr.be1lib.org
 fr.bebelelo.com
 fr.bjjizhuangxiang.com
-fr.block-sphere.com
 fr.bouvard-fleurs.ch
 fr.brokeragea.com
 fr.canalplus.cdn.videoplaza.tv
@@ -928695,6 +928742,7 @@ functionalcover.com
 functionalcrown.com
 functionalfasting.com
 functionalfeather.com
+functionalpodiatry.co.nz
 functionalwater.com
 functionpoint.evergage.com
 functions-ui-chore-e2e-rework-2-cll.vercel.app
@@ -935131,6 +935179,7 @@ gagiywuoc.firebaseapp.com
 gagiywuoc.web.app
 gagliardicirugiaplastica.com
 gaglionestrength.com
+gagnegainbel.pro
 gagnoalige.cyou
 gagnognuxuptoo.net
 gagnor-gpt-tech.com
@@ -967885,6 +967934,7 @@ getoriginfinanc.click
 getorquiva.shop
 getors.com
 getortake.com
+getosoci.cloud-ip.cc
 getotal.com
 getout.besaba.com
 getoutdoor.ru
@@ -968229,7 +968279,6 @@ gettpartner.ru
 gettpokerdom.ru
 gettracker.net
 gettrackwild.com
-gettrade.ai
 gettraf.com
 gettraf.org
 gettraffnews.com
@@ -977062,6 +977111,7 @@ giversleague.org
 giverya9.pro
 gives-money.top
 giveshopee33.blogspot.com
+giveshopee889.blogspot.com
 givesign.ru
 givestorm.org
 givesyouwings.net.mydays.de
@@ -992303,6 +992353,7 @@ godz-cassino.fr
 godz-fra.fr
 godz-french.fr
 godz-officiel.fr
+godz-online.fr
 godzcasino-de.net
 godzcasino-fr.fr
 godzcasino-fr.net
@@ -995432,6 +995483,7 @@ goldbet-app.fr
 goldbet-casino.com
 goldbet-casino.fr
 goldbet-casino.lt
+goldbet-france.fr
 goldbet-lion.fr
 goldbet-online.fr
 goldbet-slots.xyz
@@ -995474,6 +995526,7 @@ goldbet9.com
 goldbet956.top
 goldbetcasino.fr
 goldbetcasinofrance.fr
+goldbetfrance.fr
 goldbetonline.fr
 goldbetwinner-848.ru
 goldbetwinner-849.top
@@ -1011813,6 +1011866,7 @@ gransinocasino-fr.fr
 gransinocasinoo.fr
 gransinoenligne.fr
 gransinofr.fr
+gransinojeux.fr
 gransinor.fr
 gransinos.fr
 gransinoscasino.fr
@@ -1015382,6 +1015436,7 @@ groteberg.xyz
 grotecenergy.com
 grotesk-1.megogo.one
 grotespace.com
+grotesque-aqua-mjjsgggc-dpqkwyxw87t6.edgeone.dev
 grotesque-rice.pro
 grotesquephilosophy.com
 grotexnerud.ru
@@ -1015711,6 +1015766,7 @@ groupemacif.fr
 groupement-lesmousquetaires.fr
 groupement-mousquetaires.fr
 groupement-vracnco.fr
+groupenexity.fr
 groupenglish.ru
 groupenterprisevision.digital
 groupeoberlin.com
@@ -1035922,7 +1035978,6 @@ h5collector.mihoyo.com
 h5collector.miyoushe.com
 h5d2y.casino
 h5f1s8.musiqa.ro
-h5fgz1.bxkcwfr.com
 h5gameapp.com
 h5gxz.shop
 h5jww.com
@@ -1036887,6 +1036942,7 @@ hadiyaz.com
 hadjilacon.cyou
 hadleybags.ru
 hadolint.com
+hadopan.cloud-ip.cc
 hadouken.ru
 hadrel.info
 hadrianpaywall.com
@@ -1056669,6 +1056725,7 @@ hemdende.de
 hemei.offerstrack.net
 hemel-finvex-app.com
 hemel-fundexis.com
+hemelena.cloud-ip.cc
 hemelfinvexsoftware.com
 hememe.pro
 hemenhaber.shop
@@ -1058404,6 +1058461,7 @@ hey-dudafrance.fr
 hey-dude-france.fr
 hey-echo.info
 hey-mint.app
+hey-sg.com
 hey-spin.fr
 hey-whatsapp.com.cn
 hey.ashoo.us
@@ -1089864,6 +1089922,7 @@ identas.ru
 identcivfy.top
 identfulmi.store
 identgouv.fr
+identical-tomato-dbelna0z-dpsgbvu73llj.edgeone.dev
 identicaldrench.com
 identicalpeach.com
 identicalprofile.com
@@ -1091422,6 +1091481,7 @@ ig-recovery.com
 ig-sec.vercel.app
 ig-space.com
 ig-supportcenter.com
+ig-verifica.freemyip.com
 ig-verificationsupport.com
 ig-verify.apps.prov.cx
 ig.advisualagency.com
@@ -1114478,6 +1114538,7 @@ instagram-ui-one.vercel.app
 instagram-users.blogspot.com
 instagram-usman-haider.vercel.app
 instagram-uson.vercel.app
+instagram-verifica.freemyip.com
 instagram-verification.com
 instagram-verifications.blogspot.com
 instagram-verify-your-identity.github.io
@@ -1114488,6 +1114549,7 @@ instagram-visualizza-post.info
 instagram-xi-opal.vercel.app
 instagram-zeta-lemon.vercel.app
 instagram.123zoeken.be
+instagram.82.165.110.7.backname.io
 instagram.archve.me
 instagram.astv.ru
 instagram.azeme.uz
@@ -1114779,6 +1114841,7 @@ instamarkets.io
 instamun.ru
 instana.com
 instana.io
+instanbox1.sviluppo.host
 instancasino.fr
 instance-anbr85-relay.screenconnect
 instance-anbr85-relay.screenconnect.com
@@ -1180217,6 +1180280,7 @@ juliuscasinofrance.fr
 juliuscasinologin.fr
 juliuscasinomobile.fr
 juliuscasinoonline.fr
+juliuscasinos.fr
 juliusfrance-fr.fr
 juliusfrance.fr
 juliusofficial.fr
@@ -1180558,6 +1180622,7 @@ junehardilygreetings.com
 junelorith.info
 junemanga.com
 junemedia-d.openx.net
+junemoha.cloud-ip.cc
 junenell.shop
 junepantomime.com
 juner-108598.weeblysite.com
@@ -1184072,6 +1184137,7 @@ k-way-france.fr
 k-way-officiel.fr
 k-way-outlet.fr
 k-way-paris.fr
+k-way-shop.fr
 k-way-store.fr
 k-wayfrance.fr
 k-wayoutlet.fr
@@ -1196758,6 +1196824,7 @@ ke1nqd79z6vd.net
 ke2vsl.top
 ke4c664f17cade13c9f84ad4d5454b0-qthijs477q-ew.a.run.app
 ke60c.team
+ke6832.craftum.io
 ke72kh.torrent-films-2026.org
 ke7pokerdom.com
 ke91.pirat.one
@@ -1210095,6 +1210162,7 @@ keynote.ru.malavida.com
 keynote2keynote.com
 keynotedeviceanywhere.com
 keynotegroup.actonservice.com
+keynotingjunglegppym.info
 keyofhealth.com
 keyom.de
 keyonetrade.com
@@ -1319248,6 +1319316,7 @@ lesbos1.com
 lesboscenes.com
 lesbosland.com
 lesbostube.com
+lesboudeuses.fr
 lesbpornvids.com
 lesbrus24.ru
 lesburonsdauvergne.fr
@@ -1319257,9 +1319326,11 @@ lescandy.com
 lescanoyquiroz.com
 lescarnetsdedameplume.com
 lescarpe.co.uk
+lescartes-duvivant-auquotidien.fr
 leschaussuresstan.fr
 leschepaeonia.cfd
 leschos.fr
+lesclesdeloracle.fr
 lescoccinelles.fr
 lescocosecolos.com
 lescom43.ru
@@ -1319310,6 +1319381,7 @@ lesgerliive-deskopp.webflow.io
 lesgerliivedeskopp.webflow.io
 lesgger.pages.dev
 lesgourmandises.biz
+lesgrandestableesmarteziennes.fr
 leshb.atelierbeauxartsbordeaux.fr
 lesheuresdendidac.com
 leshile.ru
@@ -1319375,6 +1319447,7 @@ lesmousquetaires-groupes.fr
 lesmuslamans.fr
 lesnajaskazka.ru
 lesnamoureuhbsgswkmrfukz.onmicrosoft.com
+lesnanascreatives.fr
 lesnay-skazka.ru
 lesnaya-bratva-lordfilm.ru
 lesnaya-shkola.ru
@@ -1327794,6 +1327867,7 @@ lex69.buzz
 lex7.club
 lex70.buzz
 lexa-a.rylenz.top
+lexa-expeditions.fr
 lexapodcast.ru
 lexapp.top
 lexapro.1.p2l.info
@@ -1330767,6 +1330841,7 @@ libertapldfinancieraes.com
 libertarianec.ru
 libertatemlab.ru
 liberteen1.free.fr
+liberteetdebauche.fr
 libertefranceai.net
 libertetogo.info
 libertex-broker.fr
@@ -1344301,6 +1344376,7 @@ lmczu.trailberg.com
 lmd.vertex-re.ru
 lmd6dc1aq7.com
 lmdbdjksjwscu.space
+lmdm-atelier.fr
 lmdmi.kindpatches.com
 lmdpowermarketing.com
 lmdwyswvewgrd.site
@@ -1344874,6 +1344950,7 @@ lnstagramcom572.github.io
 lnstagrame.fr
 lnstagramsupport.cm
 lnstagramsupports.com
+lnstagrarn-reel-paoa2oajo.vercel.app
 lnstagrarn.vercel.app
 lnstagrom.fr
 lnstaqram.fr
@@ -1352051,6 +1352128,7 @@ locilservyply.fr
 locit.gotripgo.ru
 lock-bank.pro
 lock-bank.store
+lock-icloud.com
 lock-v2-truthofficial.pages.dev
 lock-y.com
 lock.lockerarea.pt
@@ -1354561,6 +1354639,7 @@ logbase.io
 logbin.ru
 logbk.amemv.com
 logbk.tiktokv.com
+logbook.fr
 logbook93.com
 logbor.com
 logboxreport.top
@@ -1355703,6 +1355782,7 @@ login.fourteenrosesbeach.com
 login.fraud-protect.com
 login.freehd.com.ua
 login.freevpnplanet.com
+login.friedli-partner.ch
 login.fw.tv
 login.gammaplatform.com
 login.gantangbao.com
@@ -1355875,7 +1355955,6 @@ login.pp-center.eu.cc
 login.pressizeteam.com
 login.ptlw.gsfederation.win
 login.pwffood.com
-login.pxshsp.com
 login.rankorate.com
 login.re-media.info
 login.referndrum.space
@@ -1357090,6 +1357169,7 @@ loheseu.xyz
 lohevee2.pro
 lohex.xyz
 lohhp.champion.com
+lohigek.cloud-ip.cc
 lohith2007ash.github.io
 lohitha2004.github.io
 lohithp2804-star.github.io
@@ -1426573,6 +1426653,7 @@ lorlsdfilmss2025hd.ru
 lorlsdfilmss2025hd.store
 lorlsdilm2220hd.ru
 lorme.damiers-leman.fr
+lormeamoineaux.fr
 lormina.shop
 lormore.pro
 lorn-creditvale.click
@@ -1436569,6 +1436650,7 @@ ludens-kyoto.com
 luderlawe.com
 ludevices.com
 ludex.top
+ludexpert.fr
 ludfiilms.online
 ludgamerca.store
 ludhs.walkerandhunt.com
@@ -1437305,6 +1437387,7 @@ lumen-kapitex-ai.com
 lumen-kapitex.com
 lumen-loans.com
 lumen-twist.com
+lumen-ursae-studio.fr
 lumen-vest.com
 lumen.causacerta.com
 lumen.elevar369.com.br
@@ -1437346,6 +1437429,7 @@ lumennix.xyz
 lumenoingrid.digital
 lumenorix.org
 lumenriqualdo.com
+lumenrise.fr
 lumenrosa.de
 lumens.evyy.net
 lumenscan.de.com
@@ -1437367,6 +1437451,7 @@ lumeproject.com
 lumera-health.ai-cryptolist.org
 lumerabeautyclub.com
 lumerabotanica.com
+lumeralle.fr
 lumeraplatform.com
 lumeraviax.com
 lumerendazza.com
@@ -1440557,6 +1440642,7 @@ lyofmbooking-com-dubai-ticket.webflow.io
 lyon-capitale.ovh
 lyon-couverture.fr
 lyon-metro-e.fr
+lyon-taxi-mobilite.fr
 lyoncapital.fr
 lyondell.global
 lyonk.com
@@ -1441722,6 +1441808,7 @@ m-ermolaev.ru
 m-esdfja.0123tt.ru
 m-eteor.com
 m-eteor.shop
+m-eugene.fr
 m-euo2zm.malosolka.net
 m-ev.ru
 m-evrfgsa.0123tt.ru
@@ -1442547,6 +1442634,7 @@ m.azino777-ww.ru
 m.azino777-wy.ru
 m.aziya.tv
 m.b-loop.club
+m.b3502.com
 m.baazexfx.cc
 m.babe.today
 m.babies-cute.com
@@ -1442983,7 +1443071,6 @@ m.fengchengroup.net
 m.fexiaen.com
 m.ffowo.com
 m.fhxsw.org
-m.fianxm.com
 m.film.net.im
 m.filmday.lat
 m.filmday1.lat
@@ -1448633,6 +1448720,7 @@ ma-vignette-critair.fr
 ma-ville.fr
 ma-vitae.fr
 ma-vitale.fr
+ma-vod7.bolt.host
 ma-webtracking.advantech.com
 ma-words.ru
 ma.1luxtv.net
@@ -1448997,6 +1449085,7 @@ mabuthe-rmasonline-hotel-resort.site
 mabuthermas.buzz
 mabydick.com
 mabzz.bluecorncandles.com
+mac-backoffice.fr
 mac-donald.site
 mac-donalds.ru
 mac-drive-update-dev-test.pages.dev
@@ -1452845,27 +1452934,20 @@ mail-willmann.de
 mail-wkow.dvhtechnology.com
 mail-xfinitylogin.weebly.com
 mail.0026-find-apple.us
-mail.04.china-betway-sports.com
-mail.07.china-betway-sports.com
-mail.09.china-betway-sports.com
 mail.1-cloud-com.us
 mail.1-lcloud-com.us
 mail.1-lcloud-l-com.us
 mail.1-www-lcloud.com
 mail.11-icloud.com
-mail.11.china-betway-sports.com
-mail.13.china-betway-sports.com
 mail.1920.in
 mail.1f-icloud.com
 mail.1serialy-online.com
 mail.1xslots-android-bz.info
 mail.2-www-lcloud.com
 mail.2-www-lcloud.info
-mail.21.china-betway-sports.com
 mail.22-icloud.com
 mail.24stream.ru
 mail.2day2go.ru
-mail.30.china-betway-sports.com
 mail.33-icloud.com
 mail.3f-icloud.com
 mail.3tuza.com
@@ -1453348,7 +1453430,6 @@ mail.lcloud-flnd.my
 mail.lcloud-support2.com
 mail.lcloudmyflnd.help
 mail.ledger-recoverystorage.com
-mail.ledgerassurance.com
 mail.ledgerlive.info
 mail.leebetcas-ino.top
 mail.lgfilm.fun
@@ -1455581,6 +1455662,7 @@ mairiedechichery.com
 mairiedechichery.online
 mairiedecours-lot-46.com
 mairiedecrenans.fr
+mairiedegorenflos.fr
 mairiedejugonleslacs.fr
 mairiedepontgouin.fr
 mairiedesaint-yon.fr
@@ -1455607,6 +1455689,7 @@ maiskii.moudodbox.ru
 maiskii.pcspeedup.ru
 maiskii.sevtorgi.ru
 maison-berger.mom
+maison-calcaire.fr
 maison-communication-digitale.fr
 maison-dartois.co
 maison-du-sac.fr
@@ -1470327,6 +1470410,7 @@ massagemparacasais.com
 massagenazarovo.ru
 massagenexus.com
 massagepornx.com
+massagepraktijklimetree.nl
 massager-plus.ru
 massagermax.sbs
 massagerz.ru
@@ -1471546,7 +1471630,6 @@ mat.strymont.com
 mat.ukraine-nachrichten.de
 mat.vetproduction.de
 mat.webian.it
-mat126o.worldrouters.com
 mat1c.ru
 mat2web.top
 mat4-tv.ru
@@ -1471555,7 +1471638,6 @@ mat4tv.online
 mat4tv.ru
 mat4tyt.ru
 mat4tyt.store
-mat612o.worldrouters.com
 mata-capitstead.com
 mata-masxxk-logijiiz.godaddysites.com
 mata-mski-login-helped.pages.dev
@@ -1486020,6 +1486102,7 @@ mediondk.widget.criteo.com
 mediostresbarbas.com.ar
 medioter.com
 medipartner.jp
+medipasswlmeweb.cloud
 medipharm.uk
 mediplanet.fr
 mediplans18.com
@@ -1517780,6 +1517863,7 @@ mhrauto-industrie.com
 mhrkxi.thetrybe.com.au
 mhrlounge.pics
 mhrs-islemyap.vercel.app
+mhrs-onlinefrager.sbs
 mhrsrhizmetler.com
 mhrzrpzfenrlj.online
 mhs.mirtesen.ru
@@ -1546183,6 +1546267,7 @@ month13mobile.com
 monthconsolidate.info
 monthdisembroildisembroilhenrietta.com
 monthly-kintara.com
+monthly-silver-fcpbuure-dppryfnvqw4l.edgeone.dev
 monthly-stake.com
 monthlydisne3ds.com
 monthlygain.pro
@@ -1568086,7 +1568171,6 @@ mp.lokino-za.xyz
 mp.lordfilm12.ru
 mp.lordfilm15.com
 mp.lordfilm15.ru
-mp.marymadeiras.com
 mp.myportrait.de
 mp.myportrait.es
 mp.myportrait.fi
@@ -1572141,6 +1572225,7 @@ mslimofdbkqsr.space
 mslinks-downloads.com
 mslives.us
 mslogin.contisystems.pt
+mslogin.friedli-partner.ch
 mslogin.oauth-live.com
 mslon12cc.ru
 mslordfilm.ru
@@ -1586017,6 +1586102,7 @@ mystahlixcore-app.net
 mystahlixcore-app.org
 mystahlixcore.org
 mystake-casino-fr.fr
+mystake-casino-france.fr
 mystake-casino.fr
 mystake-ch.ch
 mystake-enligne.fr
@@ -1586034,6 +1586120,7 @@ mystake3-casino.fr
 mystake4.fr
 mystakecasino-fr.fr
 mystakecasino-fra.fr
+mystakecasino-france.fr
 mystakecasino-online.fr
 mystakecasino.buzz
 mystakecasino.fr
@@ -1586087,6 +1586174,7 @@ mysterious-emojis-856235.framer.app
 mysterious-emotion.com
 mysterious-goblin-533072.framer.app
 mysterious-olive-rzszlhhm-dpmyo9dly4xf.edgeone.dev
+mysterious-plum-asgalhwf-dpy6nxxgbenk.edgeone.dev
 mysterious-signal.com
 mysteriousimprovement.com
 mysteriousincome.sbs
@@ -1597395,6 +1597483,7 @@ ncap-hens.cfd
 ncap-janu.cyou
 ncap-phon.click
 ncap.dfrssx.cfd
+ncapmmda-ncr.ink
 ncapmmda-ncr.lat
 ncapmmda.beer
 ncapmmda.casa
@@ -1617687,6 +1617776,7 @@ njechzha-pobezhdaet-carja-drakonov-2025.lordserialsi.ru
 njeclxfuhuvfu.site
 njedcfkcwpcze.site
 njednohq.usw-1.sealos.app
+njengajob04-ship-it.github.io
 njenocwperfratg.com
 njenrdgpthqep.online
 njenz.allivet.com
@@ -1627402,6 +1627492,7 @@ ns1.vicp.net
 ns1.viglink.com
 ns1.webwise.org
 ns1.windowsdefende.com
+ns1.yukklzwo.vip
 ns11.clickability.com
 ns11.omtrdc.net
 ns12.clickability.com
@@ -1627510,6 +1627601,7 @@ ns2.whatscvpp.top
 ns2.windowsdefende.com
 ns2.wuyouss.com
 ns2.xidian.edu.cn
+ns2.yukklzwo.vip
 ns2018.ru
 ns21.adlegend.com
 ns21.clickability.com
@@ -1632567,6 +1632659,7 @@ nunc-china.com
 nuncebacked.com
 nunchakushop.ru
 nundf.asshopclothes.fr
+nunebo.qikameza.surf
 nunebye1.ru
 nunehoa2.pro
 nunenoe.com
@@ -1643438,6 +1643531,7 @@ offer.sponsorpay.com
 offer.timenterprise.it
 offer.vyapay.com
 offer066.live
+offer24hour.com
 offer24id26.click
 offer28551.rest
 offer362.live
@@ -1681609,6 +1681703,7 @@ organic-energy.ru
 organic-english.ru
 organic-essentials-958163.framer.app
 organic-harmony.com
+organic-orange-jw6wni5h-dp8i4ykjt01o.edgeone.dev
 organic-package.com
 organic-products-697232.framer.app
 organic-pub.ru
@@ -1689426,6 +1689521,7 @@ overfocllusing.info
 overfprati.cyou
 overframe.ru
 overgems.mom
+overgenerabblize.info
 overggreyh.cyou
 overgloominess.lat
 overgotcaries.com
@@ -1701828,6 +1701924,7 @@ pas88.gaycity.love
 pasaany-lordfilm.ru
 pasac.net
 pasacommunity.online
+pasadenaconcreteservices.com
 pasadok.com
 pasaesqzsffvz.site
 pasagir.ru
@@ -1705653,7 +1705750,6 @@ pc.roboforexea.cc
 pc.roboforexeav.cc
 pc.rukoeb-sex.com
 pc.rusuchka.pro
-pc.saxonjp.com
 pc.saxotradergh.cc
 pc.service.wheelworks.net
 pc.sgtmarkets.cc
@@ -1773345,6 +1773441,7 @@ pirates-game.lol
 pirates-game.one
 pirates-game.pro
 pirates-game.xyz
+pirates0247.github.io
 piratesbattles.com
 piratesbay.sbs
 piratesbay.tk
@@ -1776608,6 +1776705,7 @@ pkurr.com
 pkuyrrzc---woukmvqn-bsccljbcrq-ez.a.run.app
 pkuz.xyz
 pkv.casino
+pkvaawgp.christmas
 pkvgantengqq.com
 pkvideo.net
 pkvjquvxvbd.com
@@ -1794909,6 +1795007,7 @@ plombus.shop
 plomby01.shop
 plomeros24horasbogota-sas.com
 plomik.shop
+plona-giovanni-srl.p-s9bbs8qw.workers.dev
 plonbik.pro
 plondervikst.pro
 plonesymp.org
@@ -1798448,7 +1798547,6 @@ podatki-iz.pdtknow.com
 podatki-jfa.poldsr.com
 podatki-jfb.poldsr.com
 podatki-jul.podacom.com
-podatki-kh.pdtks.com
 podatki-ma.pdtkn.com
 podatki-mj.epdtk.com
 podatki-mky.sosgx.com
@@ -1822234,6 +1822332,7 @@ polarius.ru
 polarizenow.site
 polarmobile.com
 polarmultiplyapologywheel.click
+polaroid-fr.fr
 polaroid-perm.ru
 polaroid-rus.ru
 polaroid.com.de
@@ -1839907,6 +1840006,7 @@ precodiric.cyou
 precodissa.cyou
 precoeliam.cyou
 precofocos.cyou
+precog.money
 precointem.cyou
 precolumbianhandicrafts.com
 precommitmentprggeoccupancies.info
@@ -1842172,6 +1842272,7 @@ president48.ru
 presidentcurtis.online
 presidentdifficult.com
 presidentdonaldtrump.pages.dev
+presidential-teal-bxsgdd0f-dpf32ng7v56d.edgeone.dev
 presidential-tomato-cfvkdrnr.edgeone.dev
 presidentialagent.com
 presidentialdepend.info
@@ -1843513,6 +1843614,7 @@ priimta.weebly.com
 priivneate.com
 prijava-logare.firebaseapp.com
 prijava-logare.web.app
+prijava-za-pretplatnike.com
 prijaviteseportalsrbija.weebly.com
 prikamcentr.online
 prikamcentr.ru
@@ -1843645,6 +1843747,7 @@ prima-pravo.ru
 prima-re.com
 prima-taxi.ru
 prima-tekc.ru
+prima.info4571011.pro
 primabahasa.com
 primabat.fr
 primabitglobal.com
@@ -1925952,6 +1926055,7 @@ resolv-5tx.pages.dev
 resolv-claim.com
 resolv-claimdrop.pages.dev
 resolv-exams.live
+resolve-binance.com
 resolve-caseauthentification-netflix-id.cricketshoe.com
 resolve-chicagos-473932.appspot.com
 resolve-issue.click
@@ -1951122,6 +1951226,7 @@ robinhood-reward.com
 robinhood-reward.vercel.app
 robinhood-rewards.vercel.app
 robinhood-secure-login-account.typedream.app
+robinhood-services.com
 robinhood-support-number.vercel.app
 robinhood-vote.vercel.app
 robinhood-votes.vercel.app
@@ -1951165,7 +1951270,6 @@ robinhoodlogin-4.gitbook.io
 robinhoodlogin.start.page
 robinhoodloginn.gitbook.io
 robinhoodlogins-3.gitbook.io
-robinhoodmarketpro.com
 robinhoodmessage.com
 robinhoodmmyy.com
 robinhoodmobileauto.com
@@ -1951592,6 +1951696,7 @@ robloxl.com.pk
 robloxlabs.com
 robloxlivestram.github.io
 robloxmail.com
+robloxmart.online
 robloxmasterzone.pages.dev
 robloxmax.top
 robloxmentors.ru
@@ -1953788,6 +1953893,7 @@ roflox.com
 rofmailteam.weebly.com
 rofncczqeznbj.space
 rofnjd.icu
+rofoba.cloud-ip.cc
 roforge.cc
 rofplus.ru
 rofschild.lol
@@ -1953898,6 +1954004,7 @@ rohdeschuhewerksverkauf.com
 rohedsaw.com
 rohel.ru
 rohelekb.ru
+rohidfashion-dpq6ibkib9bl.edgeone.dev
 rohiems.com
 rohigpeirtghort.sbs
 rohiiittt09.github.io
@@ -2005688,6 +2005795,7 @@ save-invest.pro
 save-job-trud.ru
 save-js.su
 save-mon.go-say.shop
+save-money-by-mad-th-dpib7aokxjdn.edgeone.dev
 save-plan.com
 save-ukraine-bw.de
 save-ukraine.de
@@ -2010496,12 +2010604,14 @@ scotia2026security.click
 scotia2026sercuritty.com
 scotiaabankk.com
 scotiabank-com-mx.acceso-cliente.com
+scotiabank-koreanair-brainchildtech.ph
 scotiabank-telstra-loopia.com.ph
 scotiabank.co.com
 scotiabank.hyperedge-resolver.pro
 scotiabank.net.pe
 scotiabank.redwolfsecurity.com
 scotiabank.tt.omtrdc.net
+scotiabankddhl.ph
 scotiabankwomeninitiative.ca
 scotiabrnk.com
 scotiaconnect-business.at
@@ -2015119,6 +2015229,7 @@ secure-ledgrolive-us-learn.typedream.app
 secure-ledjer-com.pages.dev
 secure-leedger--auth.webflow.io
 secure-lefigaro.fr
+secure-legalzoom-haveibeenpwned.ph
 secure-lemonde.fr
 secure-ligne.fr
 secure-link-761129c9.anisms1536y.workers.dev
@@ -2018754,6 +2018865,7 @@ segurocancelamento-pt.com
 segurocarbancol.vercel.app
 segurocardiffbancolh360.vercel.app
 segurodinexa-app.com
+seguroecredito.pt
 seguroexpress.wpenginepowered.com
 segurofundezano.net
 segurofundezano.online
@@ -2027327,7 +2027439,6 @@ sendbox.topupload.ru
 sendbron.art
 sendbscusdtbep20.vercel.app
 sendbscusdtbnb.vercel.app
-sendbulkmessages.com
 sendcarierpacket.com
 sendcity.ng
 sendcoin.ai-cryptolist.net
@@ -2061574,7 +2061685,6 @@ shopvantage.shop
 shopveliro.shop
 shopvelocity.shop
 shopventa.ru
-shopvestin.com
 shopvethan.com
 shopvico.shop
 shopvinhxinhtrai.com
@@ -2093057,6 +2093167,7 @@ smgq.qqq-ttss.su
 smgtm.supermetrics.com
 smh-ejendomsservice.dk
 smhaqly.granitex.org.pl
+smhcreation.com
 smhcyf.ely-sia.net
 smhouse.club
 smhpy.perkclothing.com
@@ -2121295,6 +2121406,7 @@ soundbench.com
 soundbest.net
 soundbirding.org
 soundbowls.com
+soundboxsemppidiameters.info
 soundbuffet.com
 soundbydaff.ru
 soundcard-drivers.com
@@ -2154888,7 +2155000,6 @@ staging.foosa.ru
 staging.fuseplatform.net
 staging.gaiduk-vanga.ru
 staging.gci.exoret.com
-staging.gettrade.ai
 staging.gregory-tass.ru
 staging.gudfilm.xyz
 staging.haywaca.professorflapjacks.com
@@ -2181038,6 +2181149,7 @@ straibesli.click
 straicrave.cyou
 straight-balloon-big.on-fleek.app
 straight-lavender-dmg1wzzmq7.edgeone.app
+straight-piano-tile-stop.trycloudflare.com
 straight-poker.ru
 straight-up.ca
 straight.aebn.com
@@ -2193047,6 +2193159,7 @@ supportid10028375781.firebaseapp.com
 supportid10028375781.web.app
 supportinfoapple.fr
 supportinfos.hubside.fr
+supporting-green-0fgd6q6q-dprmgfikc040.edgeone.dev
 supportingchildrenwithburns.com
 supportinglist.forum
 supportingpips.trade
@@ -2199344,6 +2199457,7 @@ swisspost-zoll.firebaseapp.com
 swisspost-zoll.web.app
 swisspost.auth-relivraison.com
 swisspost.ch-getmypay.com
+swisspost.ch-getmypay.icu
 swisspost.ch-pay283532.cc
 swisspost.finance1835.shop
 swisspost.gelderhalten.help
@@ -2224116,6 +2224230,7 @@ teleexoxxs.click
 teleexoxxs.help
 teleexoxxs.icu
 teleexslun.club
+teleexxcle.luxe
 teleexxsco.club
 teleeyfg.co
 teleeyprox.click
@@ -2230837,6 +2230952,7 @@ testwallet.life
 testwallet.live
 testwalllet.pages.dev
 testwebvaha.ru
+testwhm.shadowverify.com
 testwn.baidu.com
 testx-steam.c5game.com
 testxyz123random.icu
@@ -2231935,6 +2232051,7 @@ tevrizdrav.ru
 tevrox.net
 tevt.qqq-ttss.su
 tevuhoo6.pro
+tevxorin-lak294816573.vercel.app
 tevxplqnza.asia
 tevxplqnza.cyou
 tevxplqnza.ink
@@ -2241705,6 +2241822,8 @@ tigoals237.com
 tigoclub.click
 tigodoo.com
 tigodouse.click
+tigogumember.beer
+tigogumember.click
 tigonpro.ru
 tigoppwei.help
 tigoseupe.help
@@ -2248638,6 +2248757,7 @@ tokanim-cdn13-hk13.club
 tokanim-cdn16-hk16.club
 tokanim-cdn19-hk19.club
 tokanim-cdn35-hk08.homes
+tokanlm-cdn12-hk12.autos
 tokapoke56.ru
 tokaqia6.pro
 tokar-6slon.ru
@@ -2249076,6 +2249196,7 @@ tokeu.app
 tokevim-cdn26-hk26.club
 tokevim-cdn52-hk52.club
 tokevim-cdn90-hk90.club
+tokevlm-cdn60-hk60.homes
 tokewn.im
 tokex.digital
 tokex.net
@@ -2252191,6 +2252312,7 @@ top-rutor.eu
 top-rutor.pl
 top-safest-vpn.com
 top-sail.ru
+top-salmon-g4kcx1kk-dph46aj94tei.edgeone.dev
 top-santeh.ru
 top-sbor.com
 top-schastlivayaptitsa-play.online77.top
@@ -2289183,6 +2289305,7 @@ tttitikiss.kinoportal.live
 tttitikisss.kinoportal.live
 tttkkkssww.com
 tttneewssforrandtwc.weebly.com
+tttocopherol.info
 tttorrr.0123tt.ru
 tttorrr.com
 tttppp.oss-cn-guangzhou.aliyuncs.com
@@ -2307017,6 +2307140,7 @@ u-spalnya.ru
 u-sqdeie.lordfilm33.ws
 u-sso-coinbase-auth-m-auth.webflow.io
 u-sso-coinbasepros-auth.webflow.io
+u-strabg.fr
 u-strive.ru
 u-svidetel.ru
 u-t-p-ac-pa.weebly.com
@@ -2311733,6 +2311857,7 @@ uggs-store.fr
 uggs.co.at
 uggsfrance.fr
 uggshoes.fr
+uggsoldes.fr
 uggsparis.fr
 uggsshop.fr
 uggstore.fr
@@ -2318308,6 +2318433,7 @@ uniquecasino-en-ligne.fr
 uniquecasino-enligne.fr
 uniquecasino-france.fr
 uniquecasino-official.fr
+uniquecasino1.fr
 uniquecasino3.fr
 uniquecasinoapp.fr
 uniquecasinoavis.fr
@@ -2322696,6 +2322822,7 @@ unteachin.com
 unteazoehe.store
 unteh.ru
 untelicpermute.com
+untempspourjouer.fr
 untennonbe.store
 unterbewusst.at
 unternehmen-heute.de.intellitxt.com
@@ -2326550,6 +2326677,7 @@ update.hiconversion.com
 update.ib.adnxs.com
 update.id-metamask.app
 update.indexww.com
+update.inteldrives.com
 update.javashell.com
 update.jihkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 update.kjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
@@ -2330947,6 +2331075,7 @@ urstnsihmjunpwlq.g2jweym2z70h.live
 urstolupzo.xyz
 ursugaronline.fr
 ursukbuckeye.qpon
+ursul.info4571011.pro
 ursulam.com
 ursusltrk.com
 urt.yx.xsl.pt
@@ -2332986,6 +2333115,7 @@ used-association.com
 used-cars102.ru
 used-challenge.com
 used-minnesota-classifieds.com
+used-orange-49eplaae-dpa6fra09xn4.edgeone.dev
 used-restaurant.pro
 used.dpa.com
 usedautomoto.ru
@@ -2413473,6 +2413603,7 @@ vista.noocuwio.sa.com
 vista.trade
 vistaai.net
 vistaaiglobal.click
+vistabankfrance.fr
 vistabet-affiliate.host.bannerflow.com
 vistabet.fr
 vistabetgrtracksdk.optimove.net
@@ -2413665,6 +2413796,7 @@ vital-assurance.fr
 vital-carte-ameli.fr
 vital-code.ru
 vital-cpam.fr
+vital-emerald-o5cvbmci-dpdysonzepve.edgeone.dev
 vital-express.fr
 vital-info.com
 vital-info.fr
@@ -2415242,6 +2415374,7 @@ vkiqovvfivibd.space
 vkirtioitr.site
 vkisku-x.com
 vkisku.com
+vkiuy.gitbook.io
 vkj.casino
 vkj9mko5efuminb135m.cfd
 vkjiwgmipziva.space
@@ -2417356,6 +2417489,8 @@ vms.kassensystemevergleich.com
 vms.laadpalenwijzer.be
 vms.pos-software.co.uk
 vmsbe.kassazaak.be
+vmsecureloggingdynamic-dpxukza13huq.edgeone.dev
+vmsecureloggingstatic-dpntea57xjf7.edgeone.dev
 vmsecuritysolutions.com
 vmserv.ru
 vmspark.ru
@@ -2439966,6 +2440101,7 @@ vorthanelik.pro
 vorthub.site
 vortic-united.com
 vortica.app
+vortif.info4571011.pro
 vortiqsync-ai-soft.com
 vortiqsync-ai-solution.com
 vortix-stalwart-ai.com
@@ -2477190,7 +2477326,6 @@ wealth168.com
 wealthaccess.com
 wealthach.com
 wealthaddition.com
-wealthadvis.com.elitehaulgroup.com
 wealthadvisorstar.guru
 wealthaidventures.com
 wealthaires.com
@@ -2480583,7 +2480718,6 @@ webdisk.billabongnz.com
 webdisk.blockchainstoken.world
 webdisk.codashop-371.duckdns.org
 webdisk.glittertrivenipublicschool.in
-webdisk.ledgerassurance.com
 webdisk.lululemon-japan.jp
 webdisk.lululemonjapan.jp
 webdisk.pop.mobile.mail.raydiun.io
@@ -2481073,6 +2481207,7 @@ webmail-owa-auth-logon--url-silver-octo-garbanzo-production.up.railway.app
 webmail-owa-auth-sesssion-path-ideal-octo-fortnight-production.up.railway.app
 webmail-owa-path-mail-crispy-sniffle-production-9007.up.railway.app
 webmail-owa-path-mail-inbox-glowing-guide-production.up.railway.app
+webmail-oxcsnetworksolutionsemail.clientmail.workers.dev
 webmail-pieas-edu-pk.weebly.com
 webmail-prime.fr
 webmail-pt-lu.github.io
@@ -2481160,7 +2481295,6 @@ webmail.healthyemployee.me
 webmail.hgcbizmail.com
 webmail.information.maileva.com
 webmail.kickersusastore.us.com
-webmail.ledgerassurance.com
 webmail.lululemon-japan.jp
 webmail.lululemonshop.com.mx
 webmail.malegra.cyou
@@ -2481330,6 +2481464,7 @@ webmedia.pl
 webmedia01.adlegend.com
 webmedic.fr
 webmedica.cl
+webmedipasswlme.cloud
 webmedrtb.com
 webmedshelp.com
 webmedxml.com
@@ -2484648,6 +2484783,7 @@ welqum.com
 welric.com
 welshesimperia.cyou
 welshmens-lolls-733039.appspot.com
+welshmore.co.za
 welshpresetcrucify.mom
 welsitacch.online
 welstandpaynor-engine.com
@@ -2491544,6 +2491680,7 @@ willibum.xyz
 williednb.com
 williemcbrides.com
 willing-gift-685217.framer.app
+willing-peach-pnsg81fd-dphmw3x5nbdr.edgeone.dev
 willing-state.com
 willingcease.com
 willingcowbell.com
@@ -2496698,6 +2496835,7 @@ wlltledgr-liveus.wixstudio.com
 wllvnzb.biz
 wllwdfvaudnhi.space
 wlmarketing.com
+wlmewebmedipass.com
 wlmj43146-cg21.vercel.app
 wlmkj.23juin-architecture.fr
 wlmleoeykzsmm.space
@@ -2505052,6 +2505190,7 @@ ww.hentai-rape.com
 ww.hoes.tube
 ww.http.new-rutor.org
 ww.ie.123tt.ru
+ww.info4571011.pro
 ww.j-vick.0123tt.ru
 ww.jasmonegleets.cyou
 ww.jour4571108.pro
@@ -2508800,7 +2508939,6 @@ www.25365x.net
 www.25467.cc
 www.2547rr.blogspot.com
 www.255844.win
-www.256tyc.com
 www.259572.com
 www.25fshop77.blogspot.com
 www.25fthr77.blogspot.com
@@ -2509582,7 +2509720,6 @@ www.5631214.blogspot.com
 www.5632.com.ua
 www.564194365756.com
 www.567567.shop
-www.56789tl.com
 www.56811.weebly.com
 www.5691854321-doradztwo.storage.googleapis.com
 www.5691854321-firmy.storage.googleapis.com
@@ -2512533,7 +2512670,6 @@ www.airvello.shop
 www.airxxxporn.com
 www.airybotsh.pro
 www.airypathsq.name
-www.aiseocompass.com
 www.aiseries.info
 www.aisex.com
 www.aisiansex.com
@@ -2513398,6 +2513534,7 @@ www.allegro-investment.com
 www.allegro-lokalnie.12gg92701ffff.cfd
 www.allegro-lokalnie.black951ibg.sbs
 www.allegro-lokalnie.oferta1758691.click
+www.allegro-lokalnie.optimaleasy282.cfd
 www.allegro-lokalnie.pawcreek.sbs
 www.allegro-lokalnie.pl-92133.click
 www.allegro-lokalnie.pl-idwx9.sbs
@@ -2513405,6 +2513542,7 @@ www.allegro-lokalnie.pl-oferta57423598.shop
 www.allegro-lokalnie.pl-ogloszenie8598192.click
 www.allegro-lokalnie.pl-ogloszezenie1248918928.shop
 www.allegro-lokalnie.prywatne7239.shop
+www.allegro-lokalnie.tightl.sbs
 www.allegro-lokalnie.zoomarea.sbs
 www.allegro-park.ch
 www.allegro-stom.ru
@@ -2513432,6 +2513570,7 @@ www.allegrolokainie.pl-m8s8f.click
 www.allegrolokainie.pl-ogloszenie-prywatne75634534.click
 www.allegrolokainie.pl-ogloszenie-tomaszkaraszewski-52.click
 www.allegrolokainie.pl-oglozszenie1248912891.shop
+www.allegrolokainie.salesblack91194.cfd
 www.allegrolokalne.1039837h53.shop
 www.allegrolokalne.105419.cc
 www.allegrolokalne.20120oe.shop
@@ -2513452,6 +2513591,7 @@ www.allegrolokalnie.73049531.xyz
 www.allegrolokalnie.7418541.cfd
 www.allegrolokalnie.76424.top
 www.allegrolokalnie.8549431021-g4.shop
+www.allegrolokalnie.agile-107.cfd
 www.allegrolokalnie.html-produkt34894389.top
 www.allegrolokalnie.ofert83481.shop
 www.allegrolokalnie.oferta3059264949.shop
@@ -2513806,6 +2513946,7 @@ www.amazon-clone-beige-three.vercel.app
 www.amazon-clone-blue-nu.vercel.app
 www.amazon-clone-blue-ten.vercel.app
 www.amazon-clone-bretokyo.vercel.app
+www.amazon-clone-by-akash.vercel.app
 www.amazon-clone-by-gaurav-chauhan.vercel.app
 www.amazon-clone-by-shanmukh.vercel.app
 www.amazon-clone-chi-gilt.vercel.app
@@ -2513851,6 +2513992,7 @@ www.amazon-clone-lilac-iota.vercel.app
 www.amazon-clone-lilac-two.vercel.app
 www.amazon-clone-lime-eight.vercel.app
 www.amazon-clone-lovat-ten.vercel.app
+www.amazon-clone-lyart-eight.vercel.app
 www.amazon-clone-mauve-beta.vercel.app
 www.amazon-clone-mocha-nine.vercel.app
 www.amazon-clone-mocha-three.vercel.app
@@ -2513984,6 +2514126,7 @@ www.amazonklantenservicenederland.com
 www.amazonmarketing1234.blogspot.com
 www.amazonon1.com
 www.amazonpk-clone.vercel.app
+www.amazonportfolioecommerce.vercel.app
 www.amazonslots.com
 www.amazonv3.com
 www.amazonvipp.com
@@ -2514459,7 +2514602,6 @@ www.anythinganywhere.com
 www.anyxnxx.com
 www.anz-internetbanking.blogspot.com
 www.aoavangard.ru
-www.aobeclud.com
 www.aoc.teleaudio.pl
 www.aocmmo.ru
 www.aodjn.com.cn
@@ -2514519,7 +2514661,6 @@ www.api-aws.xyz
 www.api-cwlyy8pkz.contentsaadatnadarim.lol
 www.api-edge-whatsapp.com.cn
 www.api-interest.unbounce.com
-www.api-phantom.com
 www.api-routing-one.vercel.app
 www.api-staging.evergreenfin.ltd
 www.api-test.evergreenfin.ltd
@@ -2515104,6 +2515245,7 @@ www.artmasterclass.ru
 www.artmix24.de
 www.artnet.de
 www.artoferotica.info
+www.artravelmyeongdong.hostel.town
 www.arts-energy.lol
 www.artslots.com
 www.artssets.com
@@ -2516004,7 +2516146,6 @@ www.aximtradeindonesia.com
 www.axion-line.com
 www.axionitandaudiosolutions.com
 www.axiory.com
-www.axiszonenexo.com
 www.axt777.com
 www.axtraweb.com
 www.axvftrz.eu.cc
@@ -2516725,7 +2516866,6 @@ www.bannersurvey.biz
 www.bannevs.ero-advertising.com
 www.banoamrik.vercel.app
 www.banpromericabeneficios.vercel.app
-www.banquedefranceappel.com
 www.banstex.com
 www.bantrixyservicepoint.us
 www.banvar.com
@@ -2519796,6 +2519936,7 @@ www.brumanela.net
 www.brumeli.shop
 www.brumelys.net
 www.brumerendion.com
+www.brunata-muenchen.lol
 www.brundaki.shop
 www.bruneko.shop
 www.brunosalomone.com
@@ -2520723,7 +2520864,6 @@ www.capital-whales.com
 www.capital.ua
 www.capitalaccessroute.com
 www.capitalbase.io
-www.capitalbulltxs.com
 www.capitalcoreai.org
 www.capitalcraftltd.com
 www.capitaledge-ai.com
@@ -2520737,11 +2520877,8 @@ www.capitalitygroup.com
 www.capitalmarketservices.com
 www.capitaloffocus.com
 www.capitalofocus.com
-www.capitalpaycoin.com
-www.capitalpointholdings.com
 www.capitalpool.space
 www.capitalresult.ru
-www.capitalsofteg.com
 www.capitalstacktrade.com
 www.capitaltrust.pro
 www.capitalxtend.com
@@ -2521900,7 +2522037,6 @@ www.chad-moore.com
 www.chadwondermagic.com
 www.chage-tan.vercel.app
 www.chagoda.ru
-www.chain-coinbase.com
 www.chain-swap-interface-v2.vercel.app
 www.chainbep.live
 www.chainlotemaxprotrade.com
@@ -2522666,7 +2522802,6 @@ www.cloda.zone
 www.clon-facebook.vercel.app
 www.clon-mercado-libre-chi.vercel.app
 www.clonakedni.store
-www.clonbase.com
 www.clone-facebook-alpha.vercel.app
 www.clone-facebook-five.vercel.app
 www.clone-facebook-one.vercel.app
@@ -2522989,7 +2523124,6 @@ www.coinbase-wallets.blogspot.com
 www.coinbase.blogspot.com
 www.coinbase.com-clientid-567333ff44.xyz
 www.coinbase.horse
-www.coinbase.info.pl
 www.coinbase.qpon
 www.coinbaseapp.vip
 www.coinbasebasprologin.godaddysites.com
@@ -2524169,6 +2524303,7 @@ www.cspizmailovo.ru
 www.cspn-rb.ru
 www.csptgu.ru
 www.csr31.net.anwalt.de
+www.csrdrywallss.vercel.app
 www.css-ch.blogspot.com
 www.csshancellor.info
 www.cstarcom.com
@@ -2524866,7 +2525001,6 @@ www.ddfnetwork.com
 www.ddfuck.com
 www.ddgrad.ru
 www.ddixfspl.s3.amazonaws.com
-www.ddoenr.com
 www.ddohandyman.com
 www.ddos.company
 www.ddosforum.com
@@ -2524876,7 +2525010,6 @@ www.ddpay-support-help-line45.vercel.app
 www.ddqa.info
 www.ddsffhtttxfinrru.weebly.com
 www.ddt.com.ru
-www.ddwoauz.com
 www.de-10003169779-02102.vercel.app
 www.de-abastos.com
 www.de-coen.be
@@ -2525030,7 +2525163,6 @@ www.delivery.nbc.switchadhub.com
 www.delivery.newsnow.switchadhub.com
 www.delivery.swid.switchadhub.com
 www.delivery.switchadhub.com
-www.deljverioo-ae.com
 www.dellytrade.com
 www.delo.kg
 www.delo.monster
@@ -2525553,7 +2525685,6 @@ www.dip-vuz.ru
 www.dip-zakaz.ru
 www.dip2021.de
 www.diparazoto.store
-www.dipcomfort.com
 www.diperformancetransmissions.com
 www.dipli.unipa.it
 www.dipllomrussia.com
@@ -2525924,6 +2526055,7 @@ www.doc-bet365.com
 www.doc-mkvelinb.vercel.app
 www.doc-onedrive.online
 www.doc-pills.net.ru
+www.doc-portail-groupegouletsports.vercel.app
 www.doc-ythvvbc.vercel.app
 www.docazkapos24.eu.cc
 www.docbaza.ru
@@ -2525932,6 +2526064,7 @@ www.docme.ru
 www.docomo.one
 www.docozia.lovable.app
 www.docplayer.ru
+www.docportailwe.weebly.com
 www.docronika.ru
 www.docs.nnst0120.cc
 www.docsclouds.sbs
@@ -2527261,7 +2527394,6 @@ www.driveeghd.weebly.com
 www.drivegoals.com
 www.drivemodedashboard.com
 www.driveprontube.com
-www.drivezonenexo.com
 www.drivingbuythebest.com
 www.drivotracker.com
 www.driyan.shop
@@ -2529270,7 +2529402,6 @@ www.exasrv.com
 www.exbeteu.com
 www.excel-eight-flax.vercel.app
 www.excel-sampleorder-list.webflow.io
-www.exceleanceramics.com
 www.exceleratehelp.com
 www.excelz.com
 www.excentral-int.com
@@ -2529446,7 +2529577,6 @@ www.extro.mom
 www.extromtechnology.com
 www.exvaro.cfd
 www.exxonfinance.com
-www.exxtb.com
 www.exyi.com
 www.ey6sx-az-ino777.icu
 www.eye-dea.fr
@@ -2529760,6 +2529890,7 @@ www.facebook-project-seven.vercel.app
 www.facebook-pt.blogspot.com
 www.facebook-q.blogspot.com
 www.facebook-qa.blogspot.com
+www.facebook-ran.blogspot.com
 www.facebook-reward.blogspot.com
 www.facebook-rus.blogspot.com
 www.facebook-sa.blogspot.com
@@ -2530702,7 +2530833,6 @@ www.fidh.org
 www.fiduciariobajio.com.mx
 www.fieldmora.com
 www.fieldreverse.com
-www.fieldzonenexo.com
 www.fiery-mining.space
 www.fiesta-st.ru
 www.fifa.enterprises
@@ -2531900,7 +2532030,6 @@ www.focusfilm.org
 www.focusgarden.top
 www.focusgardengb.shop
 www.fodgfip.fr
-www.foeexus.com
 www.fofg.org
 www.fokurizuziri.com
 www.folicerin.pl
@@ -2532585,6 +2532714,7 @@ www.freepvideos.com
 www.freereceivesms.com
 www.freereward.in
 www.freeriper.com
+www.freerobuxxc.blogspot.com
 www.freeroughporn.com
 www.freerussia.house
 www.freerussiahouse.org
@@ -2533794,7 +2533924,6 @@ www.geamini-log-us.godaddysites.com
 www.geamini-looggoiinn.godaddysites.com
 www.geamnnilogiinnn.godaddysites.com
 www.gearfocus.bond
-www.gearhorizoza.com
 www.gearivora.com
 www.gearzone.top
 www.gebe.com.pl
@@ -2534443,7 +2534572,6 @@ www.globallivecasino.com
 www.globalmeshix.pro
 www.globalnote.digital
 www.globalonline2026.shop
-www.globalpremiumcapital.com
 www.globalrefundbureau.com
 www.globalrnatrixsurvey.com
 www.globals-dhl-trackings.vercel.app
@@ -2534510,15 +2534638,6 @@ www.gmf.mcq.temporary.site
 www.gmfus.org
 www.gmial.com
 www.gmininghub.com
-www.gmoax.com
-www.gmobf.com
-www.gmocc.com
-www.gmojx.com
-www.gmotn.com
-www.gmott.com
-www.gmowo.com
-www.gmoxx.com
-www.gmoyy.com
 www.gms-club1.com
 www.gms-club2.com
 www.gms-club3.com
@@ -2534642,8 +2534761,6 @@ www.gojiberry500.pl
 www.gojojd.weebly.com
 www.gok.wladyslawow.pl
 www.gokken-online.com
-www.gokohvb.com
-www.gokopet.com
 www.gokopoba.com
 www.gola-polska.com
 www.golato.tv
@@ -2535626,8 +2535743,6 @@ www.guest-info.help
 www.guest-stayinfo.cc
 www.guestdataupds.com
 www.guestydetails-prearrivalconfirmstay-infopay.com
-www.guggenheimeu.com
-www.guggenheimex.com
 www.guhmus.video.az
 www.gui.secure.mobile.contentabc.com
 www.guiaderotaslivre.com
@@ -2536719,6 +2536834,7 @@ www.hiroyaxxx.com
 www.hispajotes.com
 www.hispaloto.com
 www.hispaloto.es
+www.hispeed-ch-webb-serv.weebly.com
 www.hispeed-websrv.weebly.com
 www.hispeedmail.flazio.online
 www.hiss3lark.com
@@ -2536826,7 +2536942,6 @@ www.hmmaffsrrhnhot.weebly.com
 www.hmong.press
 www.hmp3.ru
 www.hmporn.net
-www.hmsjellyfish.com
 www.hmuana.com
 www.hn.lmljygu.com
 www.hnnqkcao.shop
@@ -2536892,7 +2537007,6 @@ www.holltv2.ru
 www.holltv5.ru
 www.hollykim.com
 www.hollyrandall.com
-www.hollyshair.com
 www.hollyweeddispensary.com
 www.hollywingskencansekitar.blogspot.com
 www.hollywood-samara.ru
@@ -2537196,7 +2537310,6 @@ www.hotbabes.tv
 www.hotbearporn.com
 www.hotbigass.com
 www.hotbisexualvideos.com
-www.hotbitc.com
 www.hotblackpics.com
 www.hotblondesporn.com
 www.hotboyshunter.com
@@ -2538034,6 +2538147,7 @@ www.ig-clone-gamma.vercel.app
 www.ig-creatorverification.com
 www.ig-larpcentral.vercel.app
 www.ig-sec.vercel.app
+www.ig-verifica.freemyip.com
 www.ig-verificationsupport.com
 www.ig.com
 www.igame.com
@@ -2538378,6 +2538492,7 @@ www.indenizacao-brasil.online
 www.independentesuitesterrace.hostel.town
 www.independentns.com
 www.indestructiggbly.info
+www.indesx-mauve.vercel.app
 www.index-catty-neww.vercel.app
 www.index-fx.ru
 www.index-newproject.vercel.app
@@ -2539049,6 +2539164,7 @@ www.instagram-ui-one.vercel.app
 www.instagram-users.blogspot.com
 www.instagram-usman-haider.vercel.app
 www.instagram-uson.vercel.app
+www.instagram-verifica.freemyip.com
 www.instagram-verifications.blogspot.com
 www.instagram-version.vercel.app
 www.instagram-xi-opal.vercel.app
@@ -2542451,7 +2542567,6 @@ www.kraken0vk.com
 www.kraken18-at.com
 www.krakencassino.com
 www.krakencom-wallet-jniohdiohui8signin88verifykrakenaccount.vercel.app
-www.krakenex.de
 www.krakenmaarket.com
 www.krakqeenlogi.godaddysites.com
 www.kramatorsk.info
@@ -2543395,7 +2543510,6 @@ www.ledger-walletscan-ledger.vercel.app
 www.ledger.cn.com
 www.ledger.firmwares.network
 www.ledger.org.im
-www.ledgerassurance.com
 www.ledgercompass.click.dexxtools.com
 www.ledgercomstart.vercel.app
 www.ledgerdevicescheck.com
@@ -2543671,12 +2543785,17 @@ www.lesbischepornos.com
 www.lesbofreep.com
 www.lesbories.spahotel.guru
 www.lesbosupport.com
+www.lesboudeuses.fr
 www.lesboworldp.com
 www.lesbsex.com
+www.lescartes-duvivant-auquotidien.fr
 www.lescasinosenligne.ca
+www.lesclesdeloracle.fr
 www.lesfuck.com
+www.lesgrandestableesmarteziennes.fr
 www.lesindustry.ru
 www.lesjardinsdeshahjahan.com
+www.lesnanascreatives.fr
 www.lesnoepans.ru
 www.lesoresurs44.ru
 www.lespark.us
@@ -2543746,6 +2543865,7 @@ www.lewdmatures.com
 www.lewi.ru
 www.lewplnews.yolasite.com
 www.lex.lgbt
+www.lexa-expeditions.fr
 www.lexcasino777.buzz
 www.lexconnect.co.za
 www.lexdaltreden.com
@@ -2543825,6 +2543945,7 @@ www.liberamidallaplastica.it
 www.liberascudorio-software-sbs.pages.dev
 www.liberbee.com
 www.libereco.org
+www.liberteetdebauche.fr
 www.libertyenergyproject.com
 www.libertyslots.eu
 www.libertyunlock.live
@@ -2543917,6 +2544038,7 @@ www.lightinthebox.com
 www.lightiptv.me
 www.lightningfasttraffic.com
 www.lightningmatrix.biz
+www.lights.hostel.town
 www.lightstylist.com
 www.ligodow.com
 www.ligofew.com
@@ -2544108,6 +2544230,7 @@ www.little-fingers-playschool.co.za
 www.little-help.com
 www.littleasians.com
 www.littleasiansporn.com
+www.littlecharmhanoi.hostel.town
 www.littledevildoubt.com
 www.littlegirls.biz
 www.littlegreenie.de
@@ -2544469,6 +2544592,7 @@ www.llzbfhgu.profitobody.com
 www.lm.ee
 www.lmasdlamasia29.blogspot.com
 www.lmaxdigital.one
+www.lmdm-atelier.fr
 www.lmknjb1.com
 www.lmkqwd.com
 www.lmktv-azinomo-bile.icu
@@ -2544600,6 +2544724,7 @@ www.log.claude-ai.one
 www.log0n-helpuup.godaddysites.com
 www.log15.nandya-karya-perkasa.com
 www.logaster.ru
+www.logbook.fr
 www.logcoder-fawn.vercel.app
 www.logcomcast.weebly.com
 www.loggerx.com
@@ -2544609,7 +2544734,6 @@ www.logi-maitamusk.godaddysites.com
 www.logic-host.com
 www.logiclotemax200-click.pages.dev
 www.logicpathora.pro
-www.logiczonenexo.com
 www.logid359-hlga.blogspot.com
 www.logiinblockfii.godaddysites.com
 www.login-access-wvqxnyd0.artehcloud.com
@@ -2545121,6 +2545245,7 @@ www.lorimer-cantle.shop
 www.loringallery.com
 www.loriquinn.com
 www.lorlap2321.eu.cc
+www.lormeamoineaux.fr
 www.lornavi.shop
 www.lorqemi.shop
 www.lorvesta.shop
@@ -2545539,6 +2545664,7 @@ www.lucqroai.net
 www.lucraticaia.com
 www.lucrenasho.com
 www.lucsheekino.ru
+www.ludexpert.fr
 www.ludgamerca.store
 www.ludirosta.ru
 www.ludovodka.com
@@ -2545567,7 +2545693,10 @@ www.lumarwcart.shop
 www.lumbourseatom-ai.net
 www.lumbreinvereza.digital
 www.lumcorona.net
+www.lumen-ursae-studio.fr
+www.lumenrise.fr
 www.lumepatrimezza.click
+www.lumeralle.fr
 www.lumiabitai.net
 www.lumiar-bitrow.online
 www.lumibet.com
@@ -2545691,6 +2545820,7 @@ www.lynaoawasa.skin
 www.lynqorven.com
 www.lynxcapinvestmants.com
 www.lynxclub.ru
+www.lyon-taxi-mobilite.fr
 www.lyoreau.com
 www.lyravestgrove.pro
 www.lyrics.lol
@@ -2545732,6 +2545862,7 @@ www.m-99.co.uk
 www.m-azino777.ru
 www.m-barati.de
 www.m-detstva.ru
+www.m-eugene.fr
 www.m-facebook-in.blogspot.com
 www.m-facebook-web.blogspot.com
 www.m-facebook.ct8.pl
@@ -2545835,6 +2545966,7 @@ www.maaxmarket.com
 www.mabanque-bnpparibas-conseiller-conseiller.vercel.app
 www.mabo138.com
 www.mabosi-otoku.com
+www.mac-backoffice.fr
 www.macan238d.com
 www.macaoph.online
 www.macatawa.org
@@ -2546042,7 +2546174,9 @@ www.mainteck-fr.com
 www.maintracker2.site
 www.maintyyaining.info
 www.mainyk.lt
+www.mairiedegorenflos.fr
 www.mairship.com
+www.maison-calcaire.fr
 www.maison-orbey.de
 www.maisonavenue.shop
 www.maisonboite.com
@@ -2546240,7 +2546374,6 @@ www.mapqueat.com
 www.mapquestt.com
 www.maps.afterideas.ru
 www.maps.resto-soft.ru
-www.maqamalruya.com
 www.maqan.kz
 www.maqsud-instagram-clone.vercel.app
 www.maradinrassla.online
@@ -2546470,7 +2546603,6 @@ www.mat4tv.online
 www.mat4tv.ru
 www.mat4tyt.ru
 www.mat4tyt.store
-www.mat612o.worldrouters.com
 www.mata.ero-advertising.com
 www.matamak-sex-logi.godaddysites.com
 www.matamask-llogiezx.godaddysites.com
@@ -2547048,8 +2547180,6 @@ www.megasena.com
 www.megaserial.net
 www.megasesso.com
 www.megashara.com
-www.megasharkex.com
-www.megasharkpro.com
 www.megasliv.biz
 www.megasmartrade.live.smartmetrading.live
 www.megasorteoconlatarjetaverde.com
@@ -2547231,7 +2547361,6 @@ www.merchant-bloom-settle.cfd
 www.merchantauth.site
 www.merchantauth.top
 www.merchantgate.site
-www.merchantpaychina.com
 www.merchantstride.skin
 www.merchclub.ru
 www.merci-official.shop
@@ -2549303,7 +2549432,6 @@ www.mybrokenheart.de
 www.mybtroadband.weebly.com
 www.mybuds.ca
 www.mybukmeker.com
-www.mybusiness-access.icu
 www.mybusiness361.com
 www.mycannabis.com
 www.mycardsupdates.com
@@ -2550680,9 +2550808,6 @@ www.newyearoffertoday.info
 www.newzealand24login1ird.blogspot.com
 www.newzealandcasinos.co.nz
 www.nex.pulserivet.com
-www.nexaecrypto.com
-www.nexaepro.com
-www.nexaepto.com
 www.nexarbit.net
 www.nexaverses.world
 www.nexipessogpt-br.com
@@ -2551813,7 +2551938,6 @@ www.odmity.com
 www.odno1.com
 www.odoevskiy.net.ru
 www.odorcosibella-pl.sbs
-www.odoskum.com
 www.odp-strawtv.com
 www.odpsodo.biz
 www.odrikvo.shop
@@ -2552755,7 +2552879,6 @@ www.omniswap.top
 www.omniture.com
 www.omniwlink.shop
 www.omo.piratbit.fun
-www.omo11-12.com
 www.omogepocci.store
 www.omolink.com
 www.omorashi.org
@@ -2553701,6 +2553824,7 @@ www.outlets-promotion.shop
 www.outlettaschenbooks.shop
 www.outlook-ashy.vercel.app
 www.outlook-fastseed-validate-75484.weebly.com
+www.outlook-phi-one.vercel.app
 www.outlook-serv-coral.vercel.app
 www.outlook-silk-nine.vercel.app
 www.outlook-z-cz.weebly.com
@@ -2554620,7 +2554744,6 @@ www.pdfdrive.com
 www.pdfearth.com
 www.pdfinstalls-2.vercel.app
 www.pdrill.com
-www.pdtks.com
 www.pdvialgmail.direct.quickconnect.to
 www.pdxor02.com
 www.pdxsenior.com
@@ -2554651,6 +2554774,7 @@ www.pedagiodigital-gilt.vercel.app
 www.pedagiodigital-mu.vercel.app
 www.pedagiodlgital.vercel.app
 www.pedagionaweb.com
+www.pedagioodigitall.vercel.app
 www.pedagiovirtual.com
 www.pedagog-master.ru
 www.pedagog.msk.ru
@@ -2556916,13 +2557040,10 @@ www.pod-zvonok.ru
 www.podarunokputinu.org.ua
 www.podatki-bvd.poldsaw.com
 www.podatki-fpi.poldsaw.com
-www.podatki-kh.pdtks.com
 www.podatki-mqt.poldsaw.com
-www.podatki-py.pdtks.com
 www.podatki-qne.poldsaw.com
 www.podatki-qnh.poldsaw.com
 www.podatki-rxf.poldsaw.com
-www.podatki-vm.pdtks.com
 www.podatki.pypow.com
 www.podatki.unavare.com
 www.podbiegi.pl
@@ -2557309,7 +2557430,6 @@ www.popahd.com
 www.popandc.be
 www.popart.com.br
 www.popcornflix.pl
-www.popdehh.com
 www.poperloclub.com
 www.poperlox-casino.com
 www.poplavsky.vip
@@ -2559168,12 +2559288,6 @@ www.qeuropeanporn.com
 www.qevoralyx.net
 www.qevrali.shop
 www.qevratynix.net
-www.qevzory7-belgium.com
-www.qevzory7-denmark.com
-www.qevzory7-official.com
-www.qevzory7-platform.com
-www.qevzory7-uk.com
-www.qevzory7.sbs
 www.qezodau.com
 www.qf7.tenant-data-click.com
 www.qfs-ledger.io.qfs-ledger.us
@@ -2560573,7 +2560687,6 @@ www.revresponse.com
 www.revrtb.com
 www.revrtb.net
 www.revssolutionizer.info
-www.reward-affitok.com
 www.rewardcp.com
 www.rewardiantech.net
 www.rewardnow.xyz
@@ -2563096,7 +2563209,6 @@ www.send-usdt-nu.vercel.app
 www.send-usdt-puce.vercel.app
 www.send.hollandcasino.nl
 www.sendbscusdtbep20.vercel.app
-www.sendbulkmessages.com
 www.sendfiend.com
 www.sendfwd.com
 www.sendori.com
@@ -2563249,7 +2563361,6 @@ www.servicegp.it
 www.servicenext.online
 www.serviceprime-support.com
 www.services-facebook.blogspot.com
-www.services-retractation.com
 www.servicevinci.com
 www.servicio-itau.vercel.app
 www.servicioshost.com
@@ -2564138,7 +2564249,6 @@ www.shopsitesee.com
 www.shopskydance.shop
 www.shopstra.shop
 www.shoptkpro.com
-www.shopvestin.com
 www.shopvisitors.com
 www.shopzenza.shop
 www.shopzonepl.shop
@@ -2570332,9 +2570442,7 @@ www.trafficnetworkads24.com
 www.trafficpace.com
 www.trafficresults.com
 www.trafficrevenue.net
-www.trafficsdoua.com
 www.trafficshop.com
-www.trafficstxa.com
 www.traffictrader.net
 www.traffictraders.com
 www.trafficzap.com
@@ -2570788,7 +2570896,6 @@ www.trustwallet.com-two-factor-authentication10.ao.yesixrq.com
 www.trustwallet.com.4-240-89-20.cpanel.site
 www.trustwalletcard.it
 www.trustwalletindia-beta.vercel.app
-www.trustwalletinfos.com
 www.trustwalletmycard.vercel.app
 www.trustwalletpay.online
 www.trustwalletreport.vercel.app
@@ -2571293,6 +2571400,7 @@ www.tximeleta.org
 www.txnhh.com
 www.txorliva-kext927461835.vercel.app
 www.txorliva-kot648291573.vercel.app
+www.txorliva-mest617283945.vercel.app
 www.txorvila-kost748291536.vercel.app
 www.txt.uz
 www.txvhh.com
@@ -2571517,6 +2571625,7 @@ www.ukaldi-sale.tavrenvale.com
 www.ukaldi-sale.zyphrallc.com
 www.ukbanners.com
 www.ukbuinvoicee.vercel.app
+www.ukbuvoices.vercel.app
 www.ukcasino.com
 www.ukcasinoclub.eu
 www.ukcet.ru
@@ -2571850,6 +2571959,7 @@ www.unso.in.ua
 www.unstandard.ru
 www.unswp.org
 www.untamedpaws.co.in
+www.untempspourjouer.fr
 www.unusers.com
 www.unusual-account-activity-review.vercel.app
 www.unusualpornpics.com
@@ -2572088,7 +2572198,6 @@ www.usd-tether.xyz
 www.usdfyne.shop
 www.usdmootcourt.com
 www.usdt-bep20-check.vercel.app
-www.usdt-coin.com
 www.usdt-defi-liquidity-pool.blog
 www.usdt-send-seven.vercel.app
 www.usdt-transfer.xyz
@@ -2574026,7 +2574135,6 @@ www.vipahmed.online
 www.vipatovo.ru
 www.vipbellerose.top
 www.vipbet.com
-www.vipbet789-z.com
 www.vipbish.com
 www.vipbook.info
 www.vipbook.su
@@ -2575227,7 +2575335,6 @@ www.we50.bookzip.online
 www.weagmarket.shop
 www.wealth-finance.trade
 www.wealth-waves.org
-www.wealthadvis.com.elitehaulgroup.com
 www.wealthanceai.com
 www.wealthbuildingz.net
 www.wealthforge.ai
@@ -2575304,11 +2575411,11 @@ www.web.yuppipuppy.com
 www.web1.brooklynstuff.com
 www.web101.ciasskllc.com
 www.web2.pancake.run
-www.web2open.com
 www.web3-coinbase.top
 www.web3-crypto-gate.com
 www.web3-crypto.xyz
 www.web3-projects-beta.vercel.app
+www.web3-support-centre.base99.online
 www.web3.0ledger.com
 www.web3.pancake.run
 www.web3000.co.uk
@@ -2575351,7 +2575458,6 @@ www.webapuestas.com
 www.webarmen.com
 www.webarte.net.br
 www.webassembly.stream
-www.webaudetv.com
 www.webazart.com
 www.webazart.net
 www.webberry.ru
@@ -2575777,6 +2575883,7 @@ www.whatssapp.buzz
 www.whatssapp.services
 www.whatssep-group4k.vercel.app
 www.whatssfapp.com.cn
+www.whatsspp.app
 www.whatsvsapq.top
 www.whatusee.ru
 www.whauise-web.icu
@@ -2576414,6 +2576521,7 @@ www.wurenzhizuqiuchang.asiawww.xm.okrate.click
 www.wuruzuu.com
 www.wuzameda.net
 www.wuzanjo.online
+www.wvkdx.shop
 www.wvq22.vercel.app
 www.ww-brasilrodovias.click
 www.ww-facebook.blogspot.com
@@ -2577025,7 +2577133,6 @@ www.xmagnetics.vercel.app
 www.xmaloletki.com
 www.xmaquina-verify.com
 www.xmaturepornpics.com
-www.xmbroker-japan.com
 www.xmeat.com
 www.xmeeting.com
 www.xmegadrive.com
@@ -2577089,6 +2577196,7 @@ www.xn--e1ajmqq7b.com
 www.xn--erodrome-mx0d.com
 www.xn--fortllekunsten-3ib.dk
 www.xn--h1agb8a.com
+www.xn--im-1z5cr40w.org
 www.xn--im-uv2cz9qql2gjsg.net
 www.xn--imtoken-171ltw107dxw7l.top
 www.xn--jre12--np4elh2crs9byf.absolute-estate.ru
@@ -2577226,7 +2577334,6 @@ www.xt3tiue7xxeahd5lbz.com
 www.xtajug.com
 www.xtapes.to
 www.xtbcoin.com
-www.xtbmax.com
 www.xtbtrade.fun
 www.xteen.cc
 www.xteenlesbianporn.com
@@ -2584331,6 +2584438,8 @@ x3bet-fr.fr
 x3bet-france.fr
 x3bet.ru
 x3betcasino.fr
+x3betcasinofrance.fr
+x3betfrance.fr
 x3club.ru
 x3d.ecclippse.site
 x3dzmp.fit
@@ -2588272,6 +2588381,7 @@ xflmoney.com
 xflnity.webflow.io
 xflnjtnmywule.website
 xflnltupda.weebly.com
+xflnltyappsute-weblog.vercel.app
 xflnltycregifytcardggd.framer.website
 xflnltyhubcommunnity4543.framer.website
 xflow.gamblexprotocol.com
@@ -2597694,6 +2597804,7 @@ xuanlienquan.com
 xuanxi.app
 xuanxi.guide
 xuanxuan520.com
+xuanxuankaya-songlist-dp7osgwi2f74.edgeone.dev
 xuanzhentaisui.com
 xuaptwjtpelveamv.8qaj3npj5q1y.monster
 xuaqu.com
@@ -2624972,6 +2625083,7 @@ zero-cool-x0.github.io
 zero-fasting-tracker.apk.dog
 zero-ledgers-en.pages.dev
 zero-one-app.com
+zero-protocol-dpostmusgbgk.edgeone.dev
 zero-space.sbs
 zero-trust.solutions
 zero-vpn.apk.gold
@@ -2636543,6 +2636655,7 @@ zoom-for-windows.com
 zoom-gpt.com
 zoom-help.com
 zoom-howto.net
+zoom-info.net
 zoom-instal.ru
 zoom-investa.com
 zoom-invite-user881.com
