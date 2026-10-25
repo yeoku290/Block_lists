@@ -1,7 +1,7 @@
 # Domain Blocklist
 # 自動合併自 10 個來源
-# 最後更新：2026-10-24 22:56 UTC
-# 總計網域數：2,644,693
+# 最後更新：2026-10-25 00:54 UTC
+# 總計網域數：2,644,782
 #
 # 來源：
 #    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -251134,6 +251134,7 @@ adamtw.borekwielkopolskis.pl
 adamwear.shop
 adamwilt15.com
 adamwymore.com
+adamzlp.lat
 adanacelikyapiinsaat.com
 adanafestivalleri.com
 adanak.net
@@ -341114,6 +341115,7 @@ annuniperg.cyou
 annuprimaccmemb.com
 annusdylanquidae.qpon
 annutomatable.info
+annuverma72.github.io
 annvl.com
 annvl.net
 annvoroncova.ru
@@ -351109,6 +351111,7 @@ app-kraken.pages.dev
 app-kraken.zapier.app
 app-krakenn-docs.framer.ai
 app-kuake.com.cn
+app-kukoin.zapier.app
 app-l-ledger--live-auth-sso.webflow.io
 app-l.marketo.com
 app-lad-gar-live.pages.dev
@@ -353410,6 +353413,7 @@ app.southernmiss.com
 app.splunk.me
 app.spokanepfd.org
 app.spotifylite.online
+app.spotifysonic.com
 app.sproutdefi.com
 app.ssp.yahoo.com
 app.ssweep.cc
@@ -376282,6 +376286,7 @@ assistanse-sg.fr
 assistant-abonnement.fr
 assistant-chronopost.com
 assistant-client.fr
+assistant-lcloud.help
 assistant-netflix.fr
 assistant-noreply-ca.fr
 assistant-sg.fr
@@ -427762,13 +427767,18 @@ bankofamerica-login.vercel.app
 bankofamerica-loginweb.com.ph
 bankofamerica-prepaid.ph
 bankofamerica-secure-34291919not393991ndcs399191900.netlify.com
+bankofamerica-secure-account-security.ph
+bankofamerica-secure-account-support.ph
 bankofamerica-secure-account-transfer.ph
 bankofamerica-secure-account-verification.ph
 bankofamerica-secure-account.ph
+bankofamerica-secure-accountupdate.ph
 bankofamerica-secure-authentication.ph
+bankofamerica-secure-contact-confirm.ph
 bankofamerica-secure-customer.ph
 bankofamerica-secure-form.ph
 bankofamerica-secure-guide.ph
+bankofamerica-secure-payment.ph
 bankofamerica-secure-policy.ph
 bankofamerica-secure-representative.ph
 bankofamerica-secure-securitycheck.ph
@@ -427778,6 +427788,7 @@ bankofamerica-secure-updateemail.ph
 bankofamerica-secure-updatepin.ph
 bankofamerica-secure-withdrawal.ph
 bankofamerica-secure-work.ph
+bankofamerica-secure-zip.ph
 bankofamerica-secure-zone.ph
 bankofamerica-security.blogspot.com
 bankofamerica-three.vercel.app
@@ -427800,11 +427811,13 @@ bankofamericadirectservices.com
 bankofamericaemployee.ph
 bankofamericafairfund.ph
 bankofamericagirl.ph
+bankofamericaglobal.ph
 bankofamericahfd.serveirc.com
 bankofamericalivesupport.com
 bankofamericalosangelesbankingsupportdesk.ph
 bankofamericamailcompte.blogspot.com
 bankofamericamymortgage.ph
+bankofamericaonline.com.ph
 bankofamericaonline.vercel.app
 bankofamericapartners.ph
 bankofamericapay.ph
@@ -476758,6 +476771,7 @@ blockbook-bch-1.nodes.zelcore.io
 blockbook-bch.nodes.zelcore.io
 blockbook-btc-2.nodes.zelcore.io
 blockbook-btc.nodes.zelcore.io
+blockbook-btc.sspwallet.io
 blockbook-btg.nodes.zelcore.io
 blockbook-clore-1.nodes.zelcore.io
 blockbook-dash-1.nodes.zelcore.io
@@ -477093,6 +477107,7 @@ blockhutware.shop
 blockietv1.xyz
 blockietv2.xyz
 blockify-oi-lgon.pages.dev
+blockinc.top
 blockincbtc.com
 blocking-bellhops-803110.appspot.com
 blockingshapelesscommon.com
@@ -505386,6 +505401,7 @@ bry.moscow
 bry.msgay6.xyz
 bryanapps2.club
 bryancore.org
+bryancountyokh.s3.us-east-2.amazonaws.com
 bryankakupit.xyz
 bryankamt.ru
 bryankazx.ru
@@ -520226,6 +520242,7 @@ ca.info.lgsmartad.com
 ca.infomix.best
 ca.intentmedia.net
 ca.joyjoy.website
+ca.kmfaacx.net
 ca.kxwpm.life
 ca.lesbianbliss.com
 ca.live-rutor.org
@@ -607251,6 +607268,7 @@ checkfn.us
 checkfns.ru
 checkfor-buh.ru
 checkfor-you.ru
+checkforcopyrightinfringement.vercel.app
 checkforcovid19.com
 checkforma.ru
 checkfort.top
@@ -615233,6 +615251,7 @@ christtitus.com
 christushealthsjc.d1.sc.omtrdc.net
 christxrres.github.io
 christy-007.github.io
+christyoung424.wixsite.com
 chrisversace.com
 chriszs.com
 chrji-fhav-oz04.p-qtlv10l7.workers.dev
@@ -623078,6 +623097,7 @@ class-link.com
 class-m.ru
 class-od.ru
 class-to-sdk-mapper.crittercism.com
+class.act.edu.et
 class.chuney.shop
 class.cpjvss.online
 class1004.dothome.co.kr
@@ -656317,6 +656337,7 @@ cpfzumzv.cleanpeptide.com
 cpg-cdn.com
 cpg-ltd.org
 cpg.t.domdex.com
+cpg47.ph23-ph.net
 cpg4d.com
 cpgb.cc
 cpgcgxrpfoypv.site
@@ -821871,6 +821892,7 @@ endered.fr
 enderminediscord.pages.dev
 enderoncorbanmedimn.qpon
 endesa-cliente.eu
+endesa-online-factura.com
 endesktop-ldger.wixstudio.com
 endesktop-ledgrs.wixstudio.com
 endesktop-ledzer.wixstudio.com
@@ -851273,6 +851295,7 @@ facebooklogin99999.blogspot.com
 facebookloginaccount.blogspot.com
 facebookloginapp.blogspot.com
 facebookloginapps.blogspot.com
+facebookloginbayshub-google-com.ph
 facebookloginbd.blogspot.com
 facebooklogincc.blogspot.com
 facebooklogincomin.blogspot.com
@@ -852171,6 +852194,7 @@ faibl.org
 faicbok.vercel.app
 faicbook.vercel.app
 faicboook.vercel.app
+faiceboikonlineshoip.cc
 faicheegee.com
 faidactet.lovable.app
 faidepro.com
@@ -1064875,6 +1064899,7 @@ hma-pro-vpn.ru.aptoide.com
 hma.feyavolgograd-iiz.com
 hmabmyomkq.com
 hmacloan.com
+hmade40f-del.github.io
 hmadkixrebk.in
 hmafbkrm.com
 hmah3ere-cg18.vercel.app
@@ -1095081,6 +1095106,7 @@ ilkdeneme.site
 ilkekjmcohplro.com
 ilkeraslanprotezortez.com
 ilkevimbasvurumuz.com
+ilkevtoplu.com
 ilkf.csr-formations.fr
 ilkfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 ilkineboard.site
@@ -1114150,6 +1114176,7 @@ instagram-clone-lime.vercel.app
 instagram-clone-login-page.vercel.app
 instagram-clone-login.vercel.app
 instagram-clone-m25b.bolt.host
+instagram-clone-master-three.vercel.app
 instagram-clone-mauve-beta.vercel.app
 instagram-clone-mocha.vercel.app
 instagram-clone-mu.vercel.app
@@ -1134044,6 +1134071,7 @@ itrix52.fun
 itrix57.fun
 itrjf.heydude.com
 itrjustcpitllogin.webflow.io
+itrk70.github.io
 itrmi.cn
 itroffeqolaoa.pro
 itrolexshop.com
@@ -1157859,6 +1157887,7 @@ jisoksjfjisdopadkdf.site
 jisoodksiffmcisdfjksi.site
 jisoofjwkksifosdkdal.site
 jisoofkaodpsdosfsd.site
+jisooooo0201.github.io
 jisowirjkdiisfikwidskfs.site
 jisplatform.com
 jissvyre---bhpzsbty-bsccljbcrq-ez.a.run.app
@@ -1161287,6 +1161316,7 @@ jorewin.com
 jorftg.btr.autos
 jorge-ilegal-riqueza-tradewise.blogspot.com
 jorgebasilio.com
+jorgeluis--credito-ec.replit.app
 jorgensenco.dk
 jorgepaulos.pt
 jorgerealestatemedia.com
@@ -1269482,6 +1269512,7 @@ kucoein-logon.typedream.app
 kucoeinloging.webflow.io
 kucoeinloginus.webflow.io
 kucoelgen.webflow.io
+kucoen-login.gitbook.io
 kucoen.com
 kucoeneleuiogin.webflow.io
 kucoeneloeyugine.webflow.io
@@ -1334799,6 +1334830,7 @@ lindagraham-mft.net
 lindahomelive.com
 lindamedic.com
 lindamusic.ru
+lindapelton.com
 lindarevista.es
 lindasawyer.org
 lindbauer.com
@@ -1344482,6 +1344514,7 @@ lnfksfxtuojmk.site
 lnfmhl.icu
 lnfo-antai.fr
 lnfo-critair.fr
+lnfo-support.live
 lnfo.web-chat.eu
 lnfoscmb.fr
 lnfoskonto.com
@@ -1432404,6 +1432437,7 @@ lucifer-show.top
 luciferh-serials.ru
 luciferians.ru
 luciferio.ru
+luciferjgm.github.io
 lucifers-lordfilm.ru
 lucifersdevils488-ui.github.io
 luciferserial.sbs
@@ -1455028,6 +1455062,7 @@ main.d1m0ow86j91yrd.amplifyapp.com
 main.d1xdn5bib8f7no.amplifyapp.com
 main.d1xk6yfxdxtpzr.amplifyapp.com
 main.d28axu5ybymbo7.amplifyapp.com
+main.d2i2voxato2lwa.amplifyapp.com
 main.d33jwr492gpx07.amplifyapp.com
 main.d34szcsfxnagyb.amplifyapp.com
 main.d37khhekj0pd6u.amplifyapp.com
@@ -1508445,6 +1508480,7 @@ metamakslogins.webflow.io
 metamalls.io
 metamanbintan.com
 metamaneger-auth297476.vercel.app
+metamaneger-auth399515.vercel.app
 metamanisklogin.webflow.io
 metamankuilogin.webflow.io
 metamansk.com
@@ -1518605,6 +1518641,7 @@ microsoftcloudverification.com
 microsoftcom.live
 microsoftcommittee.weebly.com
 microsoftcompte.fr
+microsoftconfig-3.vercel.app
 microsoftconsumermarketing.112.2o7.net
 microsoftcrowdstrike.com
 microsoftdocumenti-sharepoint.myportfolio.com
@@ -1527071,6 +1527108,7 @@ mitamakuxslogin.gitbook.io
 mitamask-learn.pages.dev
 mitamassk-looggin.godaddysites.com
 mitamnnklognu.webflow.io
+mitamxsklgxn.gitbook.io
 mitamxsklogen.gitbook.io
 mitamxskloggnn.gitbook.io
 mitamxsklogun.gitbook.io
@@ -1581462,6 +1581500,7 @@ my.gmads.mookie1.com
 my.goldenway.world
 my.goldsong.fun
 my.goldstonesecurities.com
+my.gov.addlla.com
 my.gov.updateeh.com
 my.govausecuru.top
 my.gp
@@ -1583249,6 +1583288,7 @@ mydpd.drbnob.buzz
 mydpd.eimiru.cc
 mydpd.fhebki.buzz
 mydpd.hmcfw.buzz
+mydpd.hrgoa.xyz
 mydpd.huiktv.buzz
 mydpd.ibvvdp.buzz
 mydpd.ideabc.buzz
@@ -1602337,6 +1602377,7 @@ netflix-clone-delta-nine.vercel.app
 netflix-clone-delta-red-23.vercel.app
 netflix-clone-delta-ruby.vercel.app
 netflix-clone-delta-two.vercel.app
+netflix-clone-demo-kappa.vercel.app
 netflix-clone-drab-ten.vercel.app
 netflix-clone-e7zf4z4kv-babzzz03.vercel.app
 netflix-clone-e9ce7.firebaseapp.com
@@ -1602459,6 +1602500,7 @@ netflix-clone-responsive-brown.vercel.app
 netflix-clone-rho-liard.vercel.app
 netflix-clone-rho-six.vercel.app
 netflix-clone-rho-topaz.vercel.app
+netflix-clone-roan-nine-87.vercel.app
 netflix-clone-rose-eight.vercel.app
 netflix-clone-ruby-beta.vercel.app
 netflix-clone-ruby-six.vercel.app
@@ -1623089,6 +1623131,7 @@ notifaccountmeta.weeblysite.com
 notifadz.com
 notifai-news.ai-cryptolist.com
 notifbonus.fr
+notifcatio.com
 notifcationmail.fr
 notifctuni.notice-univertfrance.online
 notife-ar24.fr
@@ -1680765,6 +1680808,7 @@ orderoflove.ru
 orderojwsl.space
 orderonlinecocaine.com
 orderpath.online
+orderportaal-abnamro.prindustry.com
 orderpr.top
 orderr-now.biz
 orderrids482.eu.cc
@@ -1694345,6 +1694389,7 @@ page-ldger.wixstudio.com
 page-ldgrcdn.wixstudio.com
 page-ledge-desk.pages.dev
 page-ledge-eng.pages.dev
+page-ledger-cdn.typedream.app
 page-ledger-help.pages.dev
 page-ledger-live.pages.dev
 page-ledgr-eng.pages.dev
@@ -1695949,6 +1695994,7 @@ palmangelssverige.com
 palmangelstrening.com
 palmangelsturkiye.com
 palmangelsuae.com
+palmanojit07-cyber.github.io
 palmapedia.com
 palmarealhotelsanjose.com
 palmarendario-click.pages.dev
@@ -1826129,6 +1826175,7 @@ popular-white-dwoyv8ei45-5lqmd8xyl6.edgeone.app
 popularairservice.com
 popularbik.pro
 popularcldfa.co
+popularclientedo.lat
 popularconsult.com
 popularedstore.com
 popularelectronics.ru
@@ -1852751,6 +1852798,7 @@ promoslotwin-go.cfd
 promoslotwin-go.com
 promoslotwin.com
 promoslsoty.8b.io
+promosmagluz.com
 promosmontres2023.fr
 promosoins2026bhdleons2626.iceiy.com
 promosource.co.uk
@@ -1949593,6 +1949641,7 @@ rlorlldfilm.online
 rloteria.com
 rlovnomb.com
 rlovoa.duckcamp.com
+rlp.dupintt.com
 rlpdivzvapakb.website
 rlpp.qqq-ttss.su
 rlpurple.github.io
@@ -1951321,6 +1951370,7 @@ robloxl.com.pk
 robloxlabs.com
 robloxlivestram.github.io
 robloxmail.com
+robloxmarine.github.io
 robloxmart.online
 robloxmasterzone.pages.dev
 robloxmax.top
@@ -1991591,6 +1991641,7 @@ s.teams-lo.com
 s.teams-lr.com
 s.teams-ls.com
 s.teams-lu.com
+s.teams-lw.com
 s.teams-lz.com
 s.teams-mi.com
 s.teams-ml.com
@@ -2017066,6 +2017117,7 @@ security-review-coinbase.com
 security-sarver-page--kkfitters.replit.app
 security-server--coopersinterior.replit.app
 security-server--eplkaasi.replit.app
+security-server--faifranhondyout.replit.app
 security-server--tabbielynn.replit.app
 security-server-docs--govmentdded.replit.app
 security-server-home--joeylandon06.replit.app
@@ -2098839,6 +2098891,7 @@ snowvitaltrades.com
 snowwind.ru
 snowwish.com
 snowwoman.ru
+snowy-mode-86fa.vyasetssh.workers.dev
 snowy-moon-7d6d.khanhu817373.workers.dev
 snowy-pond-b047.cqadttixs.workers.dev
 snowy-unit-b50d.nslmexrltlbqdvm.workers.dev
@@ -2119991,6 +2120044,7 @@ soporte-entrega.com
 soporte-find-cloud-me.us
 soporte-info.click
 soporte-inicioparticular.com
+soporte-ir.com
 soporte-mapas.us
 soporte-mx-mydevicelost.com
 soporte-rastreom-x.com
@@ -2176519,6 +2176573,7 @@ stephenpjones.com
 stephens-calories-172791.appspot.com
 stephens-laughlin.com
 stephoksoalt.com
+stephperson.com
 stepino.shop
 stepintowinnerzone.com
 stepioserver.citicrow.com
@@ -2186345,6 +2186400,7 @@ suhcrb.ru
 suhdetsad3.ru
 suhdgfyjbvdfhg.com
 suhecey0.pro
+suhelkhanv35-sys.github.io
 suhepue3.pro
 suhetai6.pro
 suhf1owgzy.piratbit.fun
@@ -2186623,6 +2186679,7 @@ suite-trezear.typedream.app
 suite-trezere-en.typedream.app
 suite-trezo-co.vercel.app
 suite-trezo.readme.io
+suite-trezo.teleporthq.app
 suite-trezoor-app-io-us.pages.dev
 suite-trezoor-download-io-us.pages.dev
 suite-trezoor-eng-us.pages.dev
@@ -2226286,6 +2226343,7 @@ telsstrawebmailsservicesdeskau.framer.website
 telstarball.ru
 telstra-106076-45e2aef8092c.weeblysite.com
 telstra-106971.weeblysite.com
+telstra-action.coravo.de
 telstra-email-login-au.weebly.com
 telstra.demdex.net
 telstra.imrworldwide.com
@@ -2232905,6 +2232963,7 @@ tg-fix-ios.vercel.app
 tg-go4win.ru
 tg-gubkin.ru
 tg-invests.pro
+tg-jsnq.com
 tg-kuklin.ru
 tg-lagram.com
 tg-login4.top
@@ -2247051,6 +2247110,7 @@ tnkobr.ru
 tnksf-jul10.com
 tnkuetnoabuk.com
 tnkvib.org
+tnkytutnguzni1hywi1ltnjzdvim2q4zwnd.adun.workers.dev
 tnl.casino
 tnl.monster
 tnlconstruction.com
@@ -2248247,6 +2248307,7 @@ tokanim-cdn13-hk13.club
 tokanim-cdn16-hk16.club
 tokanim-cdn19-hk19.club
 tokanim-cdn35-hk08.homes
+tokanim-cdny5-ks.sbs
 tokanlm-cdn12-hk12.autos
 tokapoke56.ru
 tokaqia6.pro
@@ -2248555,6 +2248616,7 @@ tokenmintings-nft1.vercel.app
 tokenmintings-nfts7.vercel.app
 tokennim-cdn24-hk01.club
 tokennix-cdn24-hk54.lol
+tokennix-cdn68-hk68.xyz
 tokennlh-cdn15-mr15.lat
 tokennode-whatsapp.com
 tokenomics-stable.app
@@ -2248718,7 +2248780,10 @@ tokimekitaine.net
 tokin-cdn-jnd.lol
 tokingteepee.com
 tokinim-cdn41-hk41.club
+tokinim-cdn76-hkj.xyz
 tokinix-cdn21-hk21.club
+tokinix-cdn6-hk14.xyz
+tokinix-cdn6-jh.xyz
 tokinmony.pro
 tokino.me
 tokino.org
@@ -2278075,6 +2278140,7 @@ tributerevokeliking.com
 tributeservice.blog
 tributosatuais.com
 tributosdevidos.com
+tributosreceita.com
 tributsa.ru
 tributumtrade.com
 tribvlafrica.com
@@ -2285786,6 +2285852,7 @@ trustwallet-enter.id
 trustwallet-exchange.com
 trustwallet-ext.framer.media
 trustwallet-gaufre-7d87ec.netlify.app
+trustwallet-gules.vercel.app
 trustwallet-helpcenter.vercel.app
 trustwallet-helpdesk.org
 trustwallet-inc.com
@@ -2313110,6 +2313177,7 @@ uknqcnodooheq.space
 uknznrumifax.piratbit.fun
 uko-expedition.kz
 uko.olafedur.site
+ukoa0.sunny68.net
 ukoakbrookcross.com
 ukoakbrooklane.com
 ukoakbrookview.com
@@ -2343313,6 +2343381,7 @@ validar-identidad-2026.iceiy.com
 validar-informacion-www.weebly.com
 validar-liver365.webcindario.com
 validar-memed.com.br
+validar-microsffgcuenta2026ppf.zya.me
 validar-micuenta-outlook.yzz.me
 validar-micuentafftmicros2026a.zya.me
 validar-tarjeta.webcindario.com
@@ -2399448,6 +2399517,7 @@ verify-badge-vip3.pages.dev
 verify-badge-vip32.pages.dev
 verify-badge-vip5.pages.dev
 verify-badge-vip9.pages.dev
+verify-bankofamerica-25.ph
 verify-bitcoinhelp.pages.dev
 verify-bitmoon.fun
 verify-booklng-id4918420.click
@@ -2416841,6 +2416911,7 @@ vmi3656654.contaboserver.net
 vmi3660069.contaboserver.net
 vmi3680918.contaboserver.net
 vmi3684806.contaboserver.net
+vmi3687348.contaboserver.net
 vmi5kfd.life
 vmib37bx21.com
 vmickumfiol.com
@@ -2489482,6 +2489553,7 @@ wickiupacidify.qpon
 wicklighting.com
 wickrecords.com
 wicks-bot.site
+wicksappsoauth.click
 wickscindieyeuky.cfd
 wicktherapycandle.com
 wickyuprestudy.com
@@ -2506258,6 +2506330,7 @@ www-cmb.fr
 www-cmc.app
 www-cn-google.org.cn
 www-coflix.fr
+www-coinbase.cn
 www-conimarcetcap.ink
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www-control-sign-in-att-bellsouth.webflow.io
@@ -2512041,6 +2512114,7 @@ www.airbnb-clone-eight-alpha-46.vercel.app
 www.airbnb-clone-faiknet.vercel.app
 www.airbnb-clone-farukipekcom.vercel.app
 www.airbnb-clone-final.vercel.app
+www.airbnb-clone-hisham.vercel.app
 www.airbnb-clone-hulu-app.vercel.app
 www.airbnb-clone-iota-five.vercel.app
 www.airbnb-clone-js.vercel.app
@@ -2517075,6 +2517149,7 @@ www.bet365-casino-online-ca.com
 www.bet365-casinoau.com
 www.bet365-cz.cz
 www.bet365-eee.com
+www.bet365-online.kr
 www.bet365-y.com
 www.bet365.casinologinonline.com
 www.bet365.com
@@ -2518423,6 +2518498,8 @@ www.bluebadge-page-office.vercel.app
 www.bluebadge-status-update.vercel.app
 www.bluebadgeteamcheck.vercel.app
 www.bluebankofamerica.com
+www.bluecheckservices-gold.vercel.app
+www.bluecheckservices.vercel.app
 www.bluechipdigital.com.au
 www.bluecollarparanormal.com
 www.bluecrabhosting.co.uk
@@ -2520292,6 +2520369,7 @@ www.capcutpartnerprogram.com
 www.capedrisia.com
 www.caperc.org
 www.capexrecovery.com
+www.caphaibuvoice.vercel.app
 www.capitainefinance.net
 www.capital-alpha.co
 www.capital-hub.io
@@ -2522703,6 +2522781,7 @@ www.combinebasic.com
 www.combolift.ru
 www.combosintegrales.com
 www.comboslots.com
+www.comcafjkdhfkgng.weebly.com
 www.comcascommunicationcable.weebly.com
 www.comcasst11.weebly.com
 www.comcasstmanagement.weebly.com
@@ -2524291,6 +2524370,7 @@ www.data.evergreenfin.ltd
 www.data.fanatic.com
 www.data.kabirfashions.com
 www.data2.ero-advertising.com
+www.databaseserver-sigma.vercel.app
 www.databasingkirraugh.info
 www.datacenterxpert.net
 www.datadock.ru
@@ -2529232,6 +2529312,7 @@ www.facebook-clone-mu-six.vercel.app
 www.facebook-clone-neon-ten.vercel.app
 www.facebook-clone-nu-eight.vercel.app
 www.facebook-clone-nu-nine.vercel.app
+www.facebook-clone-nu-two.vercel.app
 www.facebook-clone-one-sand.vercel.app
 www.facebook-clone-phi-ruddy.vercel.app
 www.facebook-clone-phi-seven.vercel.app
@@ -2542232,6 +2542313,7 @@ www.kucoinievlosginie.godaddysites.com
 www.kucoinlgini.godaddysites.com
 www.kucoinlogginn.blogspot.com
 www.kucoinloggne.godaddysites.com
+www.kucoinlogin.blogspot.com
 www.kucoinrewards.blogspot.com
 www.kucoinv.com
 www.kucucoinlogeu.godaddysites.com
@@ -2544083,6 +2544165,7 @@ www.lnpoct.u4qddy.cfd
 www.lnpoct.yd5eoa.sbs
 www.lnrrdpbu.shop
 www.lnstagram.cu.ma
+www.lnstagrarn-reel-paoa2oajo.vercel.app
 www.lnstagrarn.vercel.app
 www.lntercity.cfd
 www.lntercity.eu.cc
@@ -2560589,6 +2560672,7 @@ www.roblox.com.gl
 www.roblox.com.gr
 www.roblox.com.hr
 www.roblox.com.ht
+www.roblox.com.kg
 www.roblox.com.kz
 www.roblox.com.ml
 www.roblox.com.mu
@@ -2563507,6 +2563591,7 @@ www.shopee3344.blogspot.com
 www.shopee3589.blogspot.com
 www.shopee384.blogspot.com
 www.shopee3899.blogspot.com
+www.shopee3989.blogspot.com
 www.shopee421.blogspot.com
 www.shopee4444.blogspot.com
 www.shopee4469.blogspot.com
@@ -2568357,6 +2568442,7 @@ www.tevastv.com
 www.tevastv.vip
 www.tevastv.work
 www.teventcompany.com
+www.tevxorin-lak294816573.vercel.app
 www.tex.ero-advertising.com
 www.texascasino.com
 www.texascityyresponse.com
@@ -2597589,6 +2597675,7 @@ xuy.animebesst.org
 xuy.casino
 xuymgm.hostgator.mx
 xuytfncamofxt.site
+xuz-gopaynewid.logid.web.id
 xuzagoo7.pro
 xuzarui5.pro
 xuzby.fondation-catalyses.fr
@@ -2602006,6 +2602093,7 @@ yahlzfcf---ei3mgr4e-bsccljbcrq-ez.a.run.app
 yahmobilelog.weebly.com
 yahnotreligion.life
 yaho.com
+yaho.download
 yaho0.fr
 yahoi.fr
 yahoio.fr
@@ -2602037,6 +2602125,7 @@ yahoo.effectivemeasure.net
 yahoo.eulerian.com
 yahoo.hiddenspots.dev
 yahoo.llc
+yahoo.mail.letterinboxhq.com
 yahoo.media.net
 yahoo.nuggad.net
 yahoo.tf
