@@ -18,7 +18,7 @@ SOURCES = [
     # 在這裡繼續新增你要的來源 URL
 ]
 
-OUTPUT_FILE = Path("blocklist.txt")
+OUTPUT_FILE = Path("donain_blocklist.txt")
 
 DOMAIN_RE = re.compile(
     r'^(?:[a-zA-Z0-9](?:[a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?\.)'
