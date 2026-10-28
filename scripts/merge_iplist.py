@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import ipaddress
+import socket
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -13,18 +14,17 @@ SOURCES = [
 ]
 
 OUTPUT_IP = Path("ip_blocklist.txt")
-WHITELIST_FILE = Path(
-    "whitelist.txt"
-)  # 白名單檔案路徑（支援單一 IP 或 CIDR 網段）
+DOMAIN_WHITELIST_FILE = Path("whitelist.txt")  # 你原本用來放 Domain 的檔案
+IP_WHITELIST_FILE = Path("ip_whitelist.txt")  # 新增專門放 IP / CIDR 的檔案
 
 
-def load_whitelist() -> list[ipaddress.IPv4Network | ipaddress.IPv6Network]:
-  """讀取白名單檔案，支援單一 IP 與 CIDR 網段"""
-  if not WHITELIST_FILE.exists():
+def load_ip_whitelist():
+  """讀取 ip_whitelist.txt，支援單一 IP 與 CIDR 網段"""
+  if not IP_WHITELIST_FILE.exists():
     return []
 
   networks = []
-  for line in WHITELIST_FILE.read_text(encoding="utf-8").splitlines():
+  for line in IP_WHITELIST_FILE.read_text(encoding="utf-8").splitlines():
     line = line.strip()
     if (
         not line
@@ -36,26 +36,67 @@ def load_whitelist() -> list[ipaddress.IPv4Network | ipaddress.IPv6Network]:
 
     token = line.split()[0].strip('"\'')
     try:
-      # strict=False 允許將單一 IP 或 CIDR 正確解析為網路範圍
       net = ipaddress.ip_network(token, strict=False)
       networks.append(net)
     except ValueError:
-      print(f"  ⚠️ 無效的白名單格式（已略過）：{token}")
+      print(f"  ⚠️ 無效的 IP 白名單格式（已略過）：{token}")
   return networks
 
 
-def is_whitelisted(
-    ip_str: str, whitelist_nets: list[ipaddress.IPv4Network | ipaddress.IPv6Network]
-) -> bool:
-  """檢查該 IP 是否落在白名單的網段或單一 IP 中"""
+def load_domain_whitelist():
+  """讀取 whitelist.txt 的網域，並自動解析成 IP 集合"""
+  if not DOMAIN_WHITELIST_FILE.exists():
+    return set()
+
+  domains = set()
+  for line in DOMAIN_WHITELIST_FILE.read_text(encoding="utf-8").splitlines():
+    line = line.strip()
+    if (
+        not line
+        or line.startswith("#")
+        or line.startswith(";")
+        or line.startswith("!")
+    ):
+      continue
+
+    token = line.split()[0].strip('"\'')
+    # 如果裡面不小心直接寫了 IP，也相容處理
+    try:
+      ipaddress.ip_address(token)
+      continue  # 略過，留給 ip_whitelist.txt 處理
+    except ValueError:
+      domains.add(token.lower())
+
+  resolved_ips = set()
+  for domain in domains:
+    try:
+      ip_infos = socket.getaddrinfo(domain, None)
+      for info in ip_infos:
+        ip_str = info[4][0]
+        resolved_ips.add(ipaddress.ip_address(ip_str))
+      print(f"  ✅ 成功解析白名單網域: {domain}")
+    except socket.gaierror:
+      print(f"  ⚠️ 無法解析網域（可能已失效或不存在）: {domain}")
+
+  return resolved_ips
+
+
+def is_whitelisted(ip_str: str, ip_networks, resolved_ips) -> bool:
+  """檢查該 IP 是否在 IP 網段內，或是在網域解析出的 IP 內"""
   try:
     ip_obj = ipaddress.ip_address(ip_str)
   except ValueError:
     return False
 
-  for net in whitelist_nets:
+  # 1. 檢查是否在網域解析出的 IP 清單中
+  if ip_obj in resolved_ips:
+    return True
+
+  # 2. 檢查是否落在 IP/CIDR 白名單網段內
+  for net in ip_networks:
     if ip_obj in net:
       return True
+
   return False
 
 
@@ -71,7 +112,6 @@ def parse_line(line: str) -> str | None:
 
   token = line.split()[0].strip('"\'')
 
-  # CIDR 直接略過（來源清單中的 CIDR，如果你希望保留來源的 CIDR 可以拿掉這行，但你原本腳本有加這行）
   if "/" in token:
     return None
 
@@ -99,12 +139,13 @@ def main():
   print("  IP Blocklist Merger")
   print("=" * 55)
 
-  # 1. 載入白名單
-  whitelist_nets = load_whitelist()
-  if whitelist_nets:
-    print(f"  📝 已載入白名單規則：{len(whitelist_nets)} 筆")
-  else:
-    print("  📝 未發現 whitelist.txt 或白名單為空")
+  # 載入雙軌白名單
+  ip_networks = load_ip_whitelist()
+  resolved_ips = load_domain_whitelist()
+  print(
+      f"  📝 已載入 IP/CIDR 規則：{len(ip_networks)} 筆 | 網域解析 IP："
+      f" {len(resolved_ips)} 筆"
+  )
 
   all_ips: set[str] = set()
   source_stats = []
@@ -116,8 +157,7 @@ def main():
     for line in fetch_source(url):
       ip = parse_line(line)
       if ip:
-        # 檢查是否在白名單內
-        if is_whitelisted(ip, whitelist_nets):
+        if is_whitelisted(ip, ip_networks, resolved_ips):
           total_excluded += 1
           source_excluded += 1
           continue
